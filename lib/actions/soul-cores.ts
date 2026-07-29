@@ -209,6 +209,26 @@ export async function markJustCompletedRun(entryId: string, teamId: string) {
     .where(eq(teamSoulCores.id, entryId));
   if (!entry) throw new Error("Nie znaleziono wpisu");
 
+  // Dostawca nigdy nie płaci, niezależnie od tego co kliknie -
+  // traktujemy to jak zwykłe oznaczenie "zrobione", bez opłaty.
+  if (session.user.id === entry.suppliedBy) {
+    await db
+      .insert(teamSoulCoreStatus)
+      .values({
+        teamSoulCoreId: entryId,
+        userId: session.user.id,
+        completed: true,
+        completedAt: new Date(),
+      })
+      .onConflictDoUpdate({
+        target: [teamSoulCoreStatus.teamSoulCoreId, teamSoulCoreStatus.userId],
+        set: { completed: true, completedAt: new Date(), paidShare: null },
+      });
+
+    revalidatePath(`/teams/${teamId}`);
+    return;
+  }
+
   const statuses = await db
     .select()
     .from(teamSoulCoreStatus)

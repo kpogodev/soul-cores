@@ -281,6 +281,23 @@ function MyStatusButton({
     );
   }
 
+  const isSupplierMe = entry.suppliedBy === currentUserId;
+
+  if (isSupplierMe) {
+    return (
+      <button
+        disabled={isPending}
+        onClick={() => startTransition(() => markAlreadyHad(entry.id, teamId))}
+        className="soul-slot w-full px-3 py-2 text-left text-sm disabled:opacity-60"
+      >
+        Zaznacz jako zrobione
+        <span className="block text-xs text-muted-foreground">
+          jesteś dostawcą — nie płacisz
+        </span>
+      </button>
+    );
+  }
+
   return (
     <div className="grid gap-2 sm:grid-cols-2">
       <button
@@ -299,7 +316,7 @@ function MyStatusButton({
         data-glow="gold"
         className="soul-slot px-3 py-2 text-left text-sm disabled:opacity-60"
       >
-        Nie robiłem wcześniej,
+        Jeszcze nie miałem zrobione,
         <span className="block text-xs text-gold">płacę swój udział</span>
       </button>
     </div>
