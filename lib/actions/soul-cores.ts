@@ -176,42 +176,85 @@ export async function closeSoulCoreEntry(entryId: string, teamId: string) {
   revalidatePath(`/teams/${teamId}`);
 }
 
-/** Odznaczenie "mam już zrobione" dla danego wpisu w puli */
-export async function toggleMyCompletion(entryId: string, teamId: string) {
+/** Zaznacz "już wcześniej miałem to zrobione" - zwolnienie z opłaty na zawsze, dla tego wpisu */
+export async function markAlreadyHad(entryId: string, teamId: string) {
   const session = await requireSession();
 
-  const [existing] = await db
+  await db
+    .insert(teamSoulCoreStatus)
+    .values({
+      teamSoulCoreId: entryId,
+      userId: session.user.id,
+      completed: true,
+      completedAt: new Date(),
+    })
+    .onConflictDoUpdate({
+      target: [teamSoulCoreStatus.teamSoulCoreId, teamSoulCoreStatus.userId],
+      set: { completed: true, completedAt: new Date(), paidShare: null },
+    });
+
+  revalidatePath(`/teams/${teamId}`);
+}
+
+/**
+ * Zaznacz "właśnie zrobiłem run" - zamraża realną kwotę do zapłaty NATYCHMIAST,
+ * licząc cenę wśród osób które w tym momencie jeszcze nie mają zrobione (bez dostawcy).
+ */
+export async function markJustCompletedRun(entryId: string, teamId: string) {
+  const session = await requireSession();
+
+  const [entry] = await db
+    .select()
+    .from(teamSoulCores)
+    .where(eq(teamSoulCores.id, entryId));
+  if (!entry) throw new Error("Nie znaleziono wpisu");
+
+  const statuses = await db
     .select()
     .from(teamSoulCoreStatus)
+    .where(eq(teamSoulCoreStatus.teamSoulCoreId, entryId));
+
+  // płacący w tym momencie = bez dostawcy, jeszcze nie ukończeni (ja też się tu liczę, przed flipem)
+  const payersNow = statuses.filter(
+    (s) => s.userId !== entry.suppliedBy && !s.completed
+  );
+  const price = entry.price ? Number(entry.price) : 0;
+  const share = payersNow.length > 0 ? price / payersNow.length : 0;
+
+  await db
+    .insert(teamSoulCoreStatus)
+    .values({
+      teamSoulCoreId: entryId,
+      userId: session.user.id,
+      completed: true,
+      completedAt: new Date(),
+      paidShare: share.toFixed(2),
+    })
+    .onConflictDoUpdate({
+      target: [teamSoulCoreStatus.teamSoulCoreId, teamSoulCoreStatus.userId],
+      set: {
+        completed: true,
+        completedAt: new Date(),
+        paidShare: share.toFixed(2),
+      },
+    });
+
+  revalidatePath(`/teams/${teamId}`);
+}
+
+/** Cofnij swój status (np. pomyłkowe kliknięcie) - czyści też ewentualne paidShare/paid */
+export async function undoMyCompletion(entryId: string, teamId: string) {
+  const session = await requireSession();
+
+  await db
+    .update(teamSoulCoreStatus)
+    .set({ completed: false, completedAt: null, paidShare: null, paid: false })
     .where(
       and(
         eq(teamSoulCoreStatus.teamSoulCoreId, entryId),
         eq(teamSoulCoreStatus.userId, session.user.id)
       )
     );
-
-  if (existing) {
-    await db
-      .update(teamSoulCoreStatus)
-      .set({
-        completed: !existing.completed,
-        completedAt: !existing.completed ? new Date() : null,
-      })
-      .where(
-        and(
-          eq(teamSoulCoreStatus.teamSoulCoreId, entryId),
-          eq(teamSoulCoreStatus.userId, session.user.id)
-        )
-      );
-  } else {
-    // uczestnik dodany "z zewnątrz" bez wcześniejszego wiersza - tworzymy przy pierwszym kliknięciu
-    await db.insert(teamSoulCoreStatus).values({
-      teamSoulCoreId: entryId,
-      userId: session.user.id,
-      completed: true,
-      completedAt: new Date(),
-    });
-  }
 
   revalidatePath(`/teams/${teamId}`);
 }

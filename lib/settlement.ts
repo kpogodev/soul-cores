@@ -53,11 +53,12 @@ export function aggregateTotals(lines: DebtLine[]): AggregatedDebt[] {
   }
   return Array.from(map.values()).filter((l) => l.amount > 0);
 }
+/** Realne długi - każdy zamrożony paidShare (czy z pojedynczej akcji "zrobiłem run", czy z bulk zamknięcia wpisu) */
 export function buildFinalizedLedger(entries: PoolEntry[]): DebtLine[] {
   const lines: DebtLine[] = [];
 
   for (const entry of entries) {
-    if (entry.status !== "accepted" || !entry.closedAt) continue;
+    if (entry.status !== "accepted") continue;
 
     for (const p of entry.participants) {
       if (p.userId === entry.suppliedBy) continue;
@@ -78,7 +79,7 @@ export function buildFinalizedLedger(entries: PoolEntry[]): DebtLine[] {
   return lines;
 }
 
-/** Szacunkowe długi - z aktywnych (jeszcze niezamkniętych) wpisów z ceną */
+/** Szacunkowe długi - osoby które jeszcze nic nie zaznaczyły (ani zwolnienia, ani "zrobiłem run") */
 export function buildEstimatedLedger(entries: PoolEntry[]): DebtLine[] {
   const lines: DebtLine[] = [];
 

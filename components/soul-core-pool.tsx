@@ -14,7 +14,9 @@ import { formatGp } from "@/lib/utils";
 import {
   acceptSoulCoreEntry,
   rejectSoulCoreEntry,
-  toggleMyCompletion,
+  markAlreadyHad,
+  markJustCompletedRun,
+  undoMyCompletion,
   updateSupplier,
   deleteSoulCoreEntry,
   closeSoulCoreEntry,
@@ -254,28 +256,53 @@ function MyStatusButton({
   const me = entry.participants.find((p) => p.userId === currentUserId);
   if (!me) return null;
 
-  return (
-    <button
-      disabled={isPending}
-      onClick={() => startTransition(() => toggleMyCompletion(entry.id, teamId))}
-      data-glow={me.completed ? "soul" : "gold"}
-      className="soul-slot flex w-full items-center gap-2.5 px-3 py-2 text-left disabled:opacity-60"
-    >
-      <span
-        className={`flex size-5 shrink-0 items-center justify-center rounded-full border ${
-          me.completed ? "border-soul bg-soul/30" : "border-gold"
-        }`}
+  if (me.completed) {
+    return (
+      <div
+        data-glow="soul"
+        className="soul-slot flex items-center justify-between gap-2 px-3 py-2"
       >
-        {me.completed && <Check className="size-3.5 text-soul" />}
-      </span>
-      <span className="text-sm">
-        {me.completed ? (
-          <>Masz już zrobione — kliknij, jeśli to pomyłka</>
-        ) : (
-          <>Kliknij, jeśli już masz zrobione to stworzenie</>
-        )}
-      </span>
-    </button>
+        <span className="flex items-center gap-2 text-sm">
+          <span className="flex size-5 items-center justify-center rounded-full border border-soul bg-soul/30">
+            <Check className="size-3.5 text-soul" />
+          </span>
+          {me.paidShare
+            ? `Zrobione — Twój udział: ${formatGp(me.paidShare)} gp`
+            : "Masz już zrobione (zwolniony z opłaty)"}
+        </span>
+        <button
+          disabled={isPending}
+          onClick={() => startTransition(() => undoMyCompletion(entry.id, teamId))}
+          className="text-xs text-muted-foreground hover:text-foreground disabled:opacity-40"
+        >
+          cofnij
+        </button>
+      </div>
+    );
+  }
+
+  return (
+    <div className="grid gap-2 sm:grid-cols-2">
+      <button
+        disabled={isPending}
+        onClick={() => startTransition(() => markAlreadyHad(entry.id, teamId))}
+        className="soul-slot px-3 py-2 text-left text-sm disabled:opacity-60"
+      >
+        Już wcześniej miałem zrobione
+        <span className="block text-xs text-muted-foreground">
+          zwolniony z opłaty
+        </span>
+      </button>
+      <button
+        disabled={isPending}
+        onClick={() => startTransition(() => markJustCompletedRun(entry.id, teamId))}
+        data-glow="gold"
+        className="soul-slot px-3 py-2 text-left text-sm disabled:opacity-60"
+      >
+        Właśnie zrobiłem run
+        <span className="block text-xs text-gold">płacę swój udział</span>
+      </button>
+    </div>
   );
 }
 
@@ -283,14 +310,13 @@ function LivePaidToggle({
   participant,
   entryId,
   teamId,
-  share,
 }: {
   participant: Participant;
   entryId: string;
   teamId: string;
-  share: number;
 }) {
   const [isPending, startTransition] = useTransition();
+  const amount = participant.paidShare ?? "0";
 
   return (
     <button
@@ -315,8 +341,8 @@ function LivePaidToggle({
         {" · "}
         <span className={participant.paid ? "text-soul" : "text-gold"}>
           {participant.paid
-            ? `zapłacił ${formatGp(share.toFixed(2))} gp`
-            : `winien ${formatGp(share.toFixed(2))} gp — kliknij gdy zapłaci`}
+            ? `zapłacił ${formatGp(amount)} gp`
+            : `winien ${formatGp(amount)} gp — kliknij gdy zapłaci`}
         </span>
       </span>
     </button>
@@ -341,12 +367,8 @@ function ActiveEntry({
   const payers = entry.participants.filter(
     (p) => p.userId !== entry.suppliedBy && !p.completed
   );
-  const donePayers = entry.participants.filter(
-    (p) => p.userId !== entry.suppliedBy && p.completed
-  );
   const price = entry.price ? Number(entry.price) : 0;
   const share = payers.length > 0 ? price / payers.length : 0;
-  const doneShare = donePayers.length > 0 ? price / donePayers.length : 0;
 
   return (
     <div className="soul-slot space-y-3 p-4">
@@ -385,14 +407,13 @@ function ActiveEntry({
                 const isSupplierMe = entry.suppliedBy === currentUserId;
                 const isNonSupplier = p.userId !== entry.suppliedBy;
 
-                if (isSupplierMe && isNonSupplier && p.completed) {
+                if (isSupplierMe && isNonSupplier && p.completed && p.paidShare) {
                   return (
                     <LivePaidToggle
                       key={p.userId}
                       participant={p}
                       entryId={entry.id}
                       teamId={teamId}
-                      share={doneShare}
                     />
                   );
                 }
@@ -409,6 +430,7 @@ function ActiveEntry({
                     />
                     {p.name}
                     {p.userId === entry.suppliedBy && " (dostawca)"}
+                    {p.completed && !p.paidShare && p.userId !== entry.suppliedBy && " (zwolniony)"}
                   </span>
                 );
               })}
