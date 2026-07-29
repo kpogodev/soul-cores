@@ -7,12 +7,17 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "scrape:soul-cores": "tsx scripts/scrape-soul-cores.ts"
+    "scrape:soul-cores": "tsx scripts/scrape-soul-cores.ts",
+    "seed:soul-cores": "tsx --env-file=.env scripts/seed-soul-cores.ts"
   },
   "dependencies": {
     "@base-ui/react": "^1.6.0",
+    "@neondatabase/serverless": "^1.1.0",
+    "better-auth": "^1.6.25",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "cmdk": "^1.1.1",
+    "drizzle-orm": "^0.45.2",
     "lucide-react": "^1.27.0",
     "next": "16.2.12",
     "react": "19.2.4",
@@ -26,6 +31,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "drizzle-kit": "^0.31.10",
     "eslint": "^9",
     "eslint-config-next": "16.2.12",
     "puppeteer": "^24.43.1",
