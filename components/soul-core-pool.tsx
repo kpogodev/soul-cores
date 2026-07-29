@@ -299,7 +299,7 @@ function MyStatusButton({
         data-glow="gold"
         className="soul-slot px-3 py-2 text-left text-sm disabled:opacity-60"
       >
-        Właśnie zrobiłem run
+        Nie robiłem wcześniej,
         <span className="block text-xs text-gold">płacę swój udział</span>
       </button>
     </div>
