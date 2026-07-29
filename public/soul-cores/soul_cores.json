@@ -1,0 +1,4127 @@
+[
+  {
+    "creature": "Orc Warlord",
+    "name": "Orc Warlord Soul Core",
+    "img": "orc_warlord.gif"
+  },
+  {
+    "creature": "War Wolf",
+    "name": "War Wolf Soul Core",
+    "img": "war_wolf.gif"
+  },
+  {
+    "creature": "Orc Rider",
+    "name": "Orc Rider Soul Core",
+    "img": "orc_rider.gif"
+  },
+  {
+    "creature": "Orc",
+    "name": "Orc Soul Core",
+    "img": "orc.gif"
+  },
+  {
+    "creature": "Orc Shaman",
+    "name": "Orc Shaman Soul Core",
+    "img": "orc_shaman.gif"
+  },
+  {
+    "creature": "Orc Warrior",
+    "name": "Orc Warrior Soul Core",
+    "img": "orc_warrior.gif"
+  },
+  {
+    "creature": "Orc Berserker",
+    "name": "Orc Berserker Soul Core",
+    "img": "orc_berserker.gif"
+  },
+  {
+    "creature": "Necromancer",
+    "name": "Necromancer Soul Core",
+    "img": "necromancer.gif"
+  },
+  {
+    "creature": "Warlock",
+    "name": "Warlock Soul Core",
+    "img": "warlock.gif"
+  },
+  {
+    "creature": "Hunter",
+    "name": "Hunter Soul Core",
+    "img": "hunter.gif"
+  },
+  {
+    "creature": "Valkyrie",
+    "name": "Valkyrie Soul Core",
+    "img": "valkyrie.gif"
+  },
+  {
+    "creature": "Sheep",
+    "name": "Sheep Soul Core",
+    "img": "sheep.gif"
+  },
+  {
+    "creature": "Troll",
+    "name": "Troll Soul Core",
+    "img": "troll.gif"
+  },
+  {
+    "creature": "Bear",
+    "name": "Bear Soul Core",
+    "img": "bear.gif"
+  },
+  {
+    "creature": "Bonelord",
+    "name": "Bonelord Soul Core",
+    "img": "bonelord.gif"
+  },
+  {
+    "creature": "Ghoul",
+    "name": "Ghoul Soul Core",
+    "img": "ghoul.gif"
+  },
+  {
+    "creature": "Slime",
+    "name": "Slime Soul Core",
+    "img": "slime.gif"
+  },
+  {
+    "creature": "Rat",
+    "name": "Rat Soul Core",
+    "img": "rat.gif"
+  },
+  {
+    "creature": "Cyclops",
+    "name": "Cyclops Soul Core",
+    "img": "cyclops.gif"
+  },
+  {
+    "creature": "Minotaur Mage",
+    "name": "Minotaur Mage Soul Core",
+    "img": "minotaur_mage.gif"
+  },
+  {
+    "creature": "Minotaur Archer",
+    "name": "Minotaur Archer Soul Core",
+    "img": "minotaur_archer.gif"
+  },
+  {
+    "creature": "Minotaur",
+    "name": "Minotaur Soul Core",
+    "img": "minotaur.gif"
+  },
+  {
+    "creature": "Rotworm",
+    "name": "Rotworm Soul Core",
+    "img": "rotworm.gif"
+  },
+  {
+    "creature": "Wolf",
+    "name": "Wolf Soul Core",
+    "img": "wolf.gif"
+  },
+  {
+    "creature": "Snake",
+    "name": "Snake Soul Core",
+    "img": "snake.gif"
+  },
+  {
+    "creature": "Minotaur Guard",
+    "name": "Minotaur Guard Soul Core",
+    "img": "minotaur_guard.gif"
+  },
+  {
+    "creature": "Spider",
+    "name": "Spider Soul Core",
+    "img": "spider.gif"
+  },
+  {
+    "creature": "Skeleton",
+    "name": "Skeleton Soul Core",
+    "img": "skeleton.gif"
+  },
+  {
+    "creature": "Poison Spider",
+    "name": "Poison Spider Soul Core",
+    "img": "poison_spider.gif"
+  },
+  {
+    "creature": "Giant Spider",
+    "name": "Giant Spider Soul Core",
+    "img": "giant_spider.gif"
+  },
+  {
+    "creature": "Fire Devil",
+    "name": "Fire Devil Soul Core",
+    "img": "fire_devil.gif"
+  },
+  {
+    "creature": "Lion",
+    "name": "Lion Soul Core",
+    "img": "lion.gif"
+  },
+  {
+    "creature": "Polar Bear",
+    "name": "Polar Bear Soul Core",
+    "img": "polar_bear.gif"
+  },
+  {
+    "creature": "Scorpion",
+    "name": "Scorpion Soul Core",
+    "img": "scorpion.gif"
+  },
+  {
+    "creature": "Wasp",
+    "name": "Wasp Soul Core",
+    "img": "wasp.gif"
+  },
+  {
+    "creature": "Bug",
+    "name": "Bug Soul Core",
+    "img": "bug.gif"
+  },
+  {
+    "creature": "Wild Warrior",
+    "name": "Wild Warrior Soul Core",
+    "img": "wild_warrior.gif"
+  },
+  {
+    "creature": "Ghost",
+    "name": "Ghost Soul Core",
+    "img": "ghost.gif"
+  },
+  {
+    "creature": "Fire Elemental",
+    "name": "Fire Elemental Soul Core",
+    "img": "fire_elemental.gif"
+  },
+  {
+    "creature": "Orc Spearman",
+    "name": "Orc Spearman Soul Core",
+    "img": "orc_spearman.gif"
+  },
+  {
+    "creature": "Green Djinn",
+    "name": "Green Djinn Soul Core",
+    "img": "green_djinn.gif"
+  },
+  {
+    "creature": "Winter Wolf",
+    "name": "Winter Wolf Soul Core",
+    "img": "winter_wolf.gif"
+  },
+  {
+    "creature": "Frost Troll",
+    "name": "Frost Troll Soul Core",
+    "img": "frost_troll.gif"
+  },
+  {
+    "creature": "Witch",
+    "name": "Witch Soul Core",
+    "img": "witch.gif"
+  },
+  {
+    "creature": "Behemoth",
+    "name": "Behemoth Soul Core",
+    "img": "behemoth.gif"
+  },
+  {
+    "creature": "Cave Rat",
+    "name": "Cave Rat Soul Core",
+    "img": "cave_rat.gif"
+  },
+  {
+    "creature": "Monk (Creature)",
+    "name": "Monk (Creature) Soul Core",
+    "img": "monk_creature.gif"
+  },
+  {
+    "creature": "Priestess",
+    "name": "Priestess Soul Core",
+    "img": "priestess.gif"
+  },
+  {
+    "creature": "Orc Leader",
+    "name": "Orc Leader Soul Core",
+    "img": "orc_leader.gif"
+  },
+  {
+    "creature": "Pig",
+    "name": "Pig Soul Core",
+    "img": "pig.gif"
+  },
+  {
+    "creature": "Goblin",
+    "name": "Goblin Soul Core",
+    "img": "goblin.gif"
+  },
+  {
+    "creature": "Elf",
+    "name": "Elf Soul Core",
+    "img": "elf.gif"
+  },
+  {
+    "creature": "Elf Arcanist",
+    "name": "Elf Arcanist Soul Core",
+    "img": "elf_arcanist.gif"
+  },
+  {
+    "creature": "Elf Scout",
+    "name": "Elf Scout Soul Core",
+    "img": "elf_scout.gif"
+  },
+  {
+    "creature": "Mummy",
+    "name": "Mummy Soul Core",
+    "img": "mummy.gif"
+  },
+  {
+    "creature": "Vampire",
+    "name": "Vampire Soul Core",
+    "img": "vampire.gif"
+  },
+  {
+    "creature": "Stalker",
+    "name": "Stalker Soul Core",
+    "img": "stalker.gif"
+  },
+  {
+    "creature": "Stone Golem",
+    "name": "Stone Golem Soul Core",
+    "img": "stone_golem.gif"
+  },
+  {
+    "creature": "Hero",
+    "name": "Hero Soul Core",
+    "img": "hero.gif"
+  },
+  {
+    "creature": "Rabbit",
+    "name": "Rabbit Soul Core",
+    "img": "rabbit.gif"
+  },
+  {
+    "creature": "Swamp Troll",
+    "name": "Swamp Troll Soul Core",
+    "img": "swamp_troll.gif"
+  },
+  {
+    "creature": "Amazon",
+    "name": "Amazon Soul Core",
+    "img": "amazon.gif"
+  },
+  {
+    "creature": "Banshee",
+    "name": "Banshee Soul Core",
+    "img": "banshee.gif"
+  },
+  {
+    "creature": "Ancient Scarab",
+    "name": "Ancient Scarab Soul Core",
+    "img": "ancient_scarab.gif"
+  },
+  {
+    "creature": "Blue Djinn",
+    "name": "Blue Djinn Soul Core",
+    "img": "blue_djinn.gif"
+  },
+  {
+    "creature": "Cobra",
+    "name": "Cobra Soul Core",
+    "img": "cobra.gif"
+  },
+  {
+    "creature": "Larva",
+    "name": "Larva Soul Core",
+    "img": "larva.gif"
+  },
+  {
+    "creature": "Scarab",
+    "name": "Scarab Soul Core",
+    "img": "scarab.gif"
+  },
+  {
+    "creature": "Hyaena",
+    "name": "Hyaena Soul Core",
+    "img": "hyaena.gif"
+  },
+  {
+    "creature": "Gargoyle",
+    "name": "Gargoyle Soul Core",
+    "img": "gargoyle.gif"
+  },
+  {
+    "creature": "Lich",
+    "name": "Lich Soul Core",
+    "img": "lich.gif"
+  },
+  {
+    "creature": "Crypt Shambler",
+    "name": "Crypt Shambler Soul Core",
+    "img": "crypt_shambler.gif"
+  },
+  {
+    "creature": "Bonebeast",
+    "name": "Bonebeast Soul Core",
+    "img": "bonebeast.gif"
+  },
+  {
+    "creature": "Efreet",
+    "name": "Efreet Soul Core",
+    "img": "efreet.gif"
+  },
+  {
+    "creature": "Marid",
+    "name": "Marid Soul Core",
+    "img": "marid.gif"
+  },
+  {
+    "creature": "Badger",
+    "name": "Badger Soul Core",
+    "img": "badger.gif"
+  },
+  {
+    "creature": "Skunk",
+    "name": "Skunk Soul Core",
+    "img": "skunk.gif"
+  },
+  {
+    "creature": "Elder Bonelord",
+    "name": "Elder Bonelord Soul Core",
+    "img": "elder_bonelord.gif"
+  },
+  {
+    "creature": "Gazer",
+    "name": "Gazer Soul Core",
+    "img": "gazer.gif"
+  },
+  {
+    "creature": "Yeti",
+    "name": "Yeti Soul Core",
+    "img": "yeti.gif"
+  },
+  {
+    "creature": "Chicken",
+    "name": "Chicken Soul Core",
+    "img": "chicken.gif"
+  },
+  {
+    "creature": "Crab",
+    "name": "Crab Soul Core",
+    "img": "crab.gif"
+  },
+  {
+    "creature": "Lizard Templar",
+    "name": "Lizard Templar Soul Core",
+    "img": "lizard_templar.gif"
+  },
+  {
+    "creature": "Lizard Sentinel",
+    "name": "Lizard Sentinel Soul Core",
+    "img": "lizard_sentinel.gif"
+  },
+  {
+    "creature": "Lizard Snakecharmer",
+    "name": "Lizard Snakecharmer Soul Core",
+    "img": "lizard_snakecharmer.gif"
+  },
+  {
+    "creature": "Kongra",
+    "name": "Kongra Soul Core",
+    "img": "kongra.gif"
+  },
+  {
+    "creature": "Merlkin",
+    "name": "Merlkin Soul Core",
+    "img": "merlkin.gif"
+  },
+  {
+    "creature": "Sibang",
+    "name": "Sibang Soul Core",
+    "img": "sibang.gif"
+  },
+  {
+    "creature": "Crocodile",
+    "name": "Crocodile Soul Core",
+    "img": "crocodile.gif"
+  },
+  {
+    "creature": "Carniphila",
+    "name": "Carniphila Soul Core",
+    "img": "carniphila.gif"
+  },
+  {
+    "creature": "Hydra",
+    "name": "Hydra Soul Core",
+    "img": "hydra.gif"
+  },
+  {
+    "creature": "Bat",
+    "name": "Bat Soul Core",
+    "img": "bat.gif"
+  },
+  {
+    "creature": "Panda",
+    "name": "Panda Soul Core",
+    "img": "panda.gif"
+  },
+  {
+    "creature": "Centipede",
+    "name": "Centipede Soul Core",
+    "img": "centipede.gif"
+  },
+  {
+    "creature": "Tiger",
+    "name": "Tiger Soul Core",
+    "img": "tiger.gif"
+  },
+  {
+    "creature": "Elephant",
+    "name": "Elephant Soul Core",
+    "img": "elephant.gif"
+  },
+  {
+    "creature": "Flamingo",
+    "name": "Flamingo Soul Core",
+    "img": "flamingo.gif"
+  },
+  {
+    "creature": "Parrot",
+    "name": "Parrot Soul Core",
+    "img": "parrot.gif"
+  },
+  {
+    "creature": "Terror Bird",
+    "name": "Terror Bird Soul Core",
+    "img": "terror_bird.gif"
+  },
+  {
+    "creature": "Tarantula",
+    "name": "Tarantula Soul Core",
+    "img": "tarantula.gif"
+  },
+  {
+    "creature": "Serpent Spawn",
+    "name": "Serpent Spawn Soul Core",
+    "img": "serpent_spawn.gif"
+  },
+  {
+    "creature": "Spit Nettle",
+    "name": "Spit Nettle Soul Core",
+    "img": "spit_nettle.gif"
+  },
+  {
+    "creature": "Smuggler",
+    "name": "Smuggler Soul Core",
+    "img": "smuggler.gif"
+  },
+  {
+    "creature": "Bandit",
+    "name": "Bandit Soul Core",
+    "img": "bandit.gif"
+  },
+  {
+    "creature": "Assassin",
+    "name": "Assassin Soul Core",
+    "img": "assassin.gif"
+  },
+  {
+    "creature": "Quara Predator",
+    "name": "Quara Predator Soul Core",
+    "img": "quara_predator.gif"
+  },
+  {
+    "creature": "Quara Constrictor",
+    "name": "Quara Constrictor Soul Core",
+    "img": "quara_constrictor.gif"
+  },
+  {
+    "creature": "Quara Mantassin",
+    "name": "Quara Mantassin Soul Core",
+    "img": "quara_mantassin.gif"
+  },
+  {
+    "creature": "Water Elemental",
+    "name": "Water Elemental Soul Core",
+    "img": "water_elemental.gif"
+  },
+  {
+    "creature": "Quara Predator Scout",
+    "name": "Quara Predator Scout Soul Core",
+    "img": "quara_predator_scout.gif"
+  },
+  {
+    "creature": "Quara Constrictor Scout",
+    "name": "Quara Constrictor Scout Soul Core",
+    "img": "quara_constrictor_scout.gif"
+  },
+  {
+    "creature": "Quara Mantassin Scout",
+    "name": "Quara Mantassin Scout Soul Core",
+    "img": "quara_mantassin_scout.gif"
+  },
+  {
+    "creature": "Quara Hydromancer",
+    "name": "Quara Hydromancer Soul Core",
+    "img": "quara_hydromancer.gif"
+  },
+  {
+    "creature": "Quara Hydromancer Scout",
+    "name": "Quara Hydromancer Scout Soul Core",
+    "img": "quara_hydromancer_scout.gif"
+  },
+  {
+    "creature": "Quara Pincher",
+    "name": "Quara Pincher Soul Core",
+    "img": "quara_pincher.gif"
+  },
+  {
+    "creature": "Quara Pincher Scout",
+    "name": "Quara Pincher Scout Soul Core",
+    "img": "quara_pincher_scout.gif"
+  },
+  {
+    "creature": "Pirate Marauder",
+    "name": "Pirate Marauder Soul Core",
+    "img": "pirate_marauder.gif"
+  },
+  {
+    "creature": "Pirate Cutthroat",
+    "name": "Pirate Cutthroat Soul Core",
+    "img": "pirate_cutthroat.gif"
+  },
+  {
+    "creature": "Pirate Buccaneer",
+    "name": "Pirate Buccaneer Soul Core",
+    "img": "pirate_buccaneer.gif"
+  },
+  {
+    "creature": "Pirate Corsair",
+    "name": "Pirate Corsair Soul Core",
+    "img": "pirate_corsair.gif"
+  },
+  {
+    "creature": "Carrion Worm",
+    "name": "Carrion Worm Soul Core",
+    "img": "carrion_worm.gif"
+  },
+  {
+    "creature": "Enlightened of the Cult",
+    "name": "Enlightened of the Cult Soul Core",
+    "img": "enlightened_of_the_cult.gif"
+  },
+  {
+    "creature": "Acolyte of the Cult",
+    "name": "Acolyte of the Cult Soul Core",
+    "img": "acolyte_of_the_cult.gif"
+  },
+  {
+    "creature": "Adept of the Cult",
+    "name": "Adept of the Cult Soul Core",
+    "img": "adept_of_the_cult.gif"
+  },
+  {
+    "creature": "Novice of the Cult",
+    "name": "Novice of the Cult Soul Core",
+    "img": "novice_of_the_cult.gif"
+  },
+  {
+    "creature": "Pirate Skeleton",
+    "name": "Pirate Skeleton Soul Core",
+    "img": "pirate_skeleton.gif"
+  },
+  {
+    "creature": "Pirate Ghost",
+    "name": "Pirate Ghost Soul Core",
+    "img": "pirate_ghost.gif"
+  },
+  {
+    "creature": "Tortoise",
+    "name": "Tortoise Soul Core",
+    "img": "tortoise.gif"
+  },
+  {
+    "creature": "Thornback Tortoise",
+    "name": "Thornback Tortoise Soul Core",
+    "img": "thornback_tortoise.gif"
+  },
+  {
+    "creature": "Mammoth",
+    "name": "Mammoth Soul Core",
+    "img": "mammoth.gif"
+  },
+  {
+    "creature": "Blood Crab",
+    "name": "Blood Crab Soul Core",
+    "img": "blood_crab.gif"
+  },
+  {
+    "creature": "Toad",
+    "name": "Toad Soul Core",
+    "img": "toad.gif"
+  },
+  {
+    "creature": "Seagull",
+    "name": "Seagull Soul Core",
+    "img": "seagull.gif"
+  },
+  {
+    "creature": "Son of Verminor",
+    "name": "Son of Verminor Soul Core",
+    "img": "son_of_verminor.gif"
+  },
+  {
+    "creature": "Azure Frog",
+    "name": "Azure Frog Soul Core",
+    "img": "azure_frog.gif"
+  },
+  {
+    "creature": "Crimson Frog",
+    "name": "Crimson Frog Soul Core",
+    "img": "crimson_frog.gif"
+  },
+  {
+    "creature": "Green Frog",
+    "name": "Green Frog Soul Core",
+    "img": "green_frog.gif"
+  },
+  {
+    "creature": "Coral Frog",
+    "name": "Coral Frog Soul Core",
+    "img": "coral_frog.gif"
+  },
+  {
+    "creature": "Orchid Frog",
+    "name": "Orchid Frog Soul Core",
+    "img": "orchid_frog.gif"
+  },
+  {
+    "creature": "Island Troll",
+    "name": "Island Troll Soul Core",
+    "img": "island_troll.gif"
+  },
+  {
+    "creature": "Massive Water Elemental",
+    "name": "Massive Water Elemental Soul Core",
+    "img": "massive_water_elemental.gif"
+  },
+  {
+    "creature": "Hand of Cursed Fate",
+    "name": "Hand of Cursed Fate Soul Core",
+    "img": "hand_of_cursed_fate.gif"
+  },
+  {
+    "creature": "Undead Dragon",
+    "name": "Undead Dragon Soul Core",
+    "img": "undead_dragon.gif"
+  },
+  {
+    "creature": "Lost Soul",
+    "name": "Lost Soul Soul Core",
+    "img": "lost_soul.gif"
+  },
+  {
+    "creature": "Betrayed Wraith",
+    "name": "Betrayed Wraith Soul Core",
+    "img": "betrayed_wraith.gif"
+  },
+  {
+    "creature": "Spectre",
+    "name": "Spectre Soul Core",
+    "img": "spectre.gif"
+  },
+  {
+    "creature": "Wyvern",
+    "name": "Wyvern Soul Core",
+    "img": "wyvern.gif"
+  },
+  {
+    "creature": "Fury",
+    "name": "Fury Soul Core",
+    "img": "fury.gif"
+  },
+  {
+    "creature": "Phantasm",
+    "name": "Phantasm Soul Core",
+    "img": "phantasm.gif"
+  },
+  {
+    "creature": "Hellhound",
+    "name": "Hellhound Soul Core",
+    "img": "hellhound.gif"
+  },
+  {
+    "creature": "Hellfire Fighter",
+    "name": "Hellfire Fighter Soul Core",
+    "img": "hellfire_fighter.gif"
+  },
+  {
+    "creature": "Juggernaut",
+    "name": "Juggernaut Soul Core",
+    "img": "juggernaut.gif"
+  },
+  {
+    "creature": "Blightwalker",
+    "name": "Blightwalker Soul Core",
+    "img": "blightwalker.gif"
+  },
+  {
+    "creature": "Nightmare",
+    "name": "Nightmare Soul Core",
+    "img": "nightmare.gif"
+  },
+  {
+    "creature": "Massive Fire Elemental",
+    "name": "Massive Fire Elemental Soul Core",
+    "img": "massive_fire_elemental.gif"
+  },
+  {
+    "creature": "Plaguesmith",
+    "name": "Plaguesmith Soul Core",
+    "img": "plaguesmith.gif"
+  },
+  {
+    "creature": "Penguin",
+    "name": "Penguin Soul Core",
+    "img": "penguin.gif"
+  },
+  {
+    "creature": "Frost Dragon",
+    "name": "Frost Dragon Soul Core",
+    "img": "frost_dragon.gif"
+  },
+  {
+    "creature": "Chakoya Tribewarden",
+    "name": "Chakoya Tribewarden Soul Core",
+    "img": "chakoya_tribewarden.gif"
+  },
+  {
+    "creature": "Braindeath",
+    "name": "Braindeath Soul Core",
+    "img": "braindeath.gif"
+  },
+  {
+    "creature": "Barbarian Skullhunter",
+    "name": "Barbarian Skullhunter Soul Core",
+    "img": "barbarian_skullhunter.gif"
+  },
+  {
+    "creature": "Barbarian Bloodwalker",
+    "name": "Barbarian Bloodwalker Soul Core",
+    "img": "barbarian_bloodwalker.gif"
+  },
+  {
+    "creature": "Frost Giant",
+    "name": "Frost Giant Soul Core",
+    "img": "frost_giant.gif"
+  },
+  {
+    "creature": "Ice Golem",
+    "name": "Ice Golem Soul Core",
+    "img": "ice_golem.gif"
+  },
+  {
+    "creature": "Silver Rabbit",
+    "name": "Silver Rabbit Soul Core",
+    "img": "silver_rabbit.gif"
+  },
+  {
+    "creature": "Chakoya Toolshaper",
+    "name": "Chakoya Toolshaper Soul Core",
+    "img": "chakoya_toolshaper.gif"
+  },
+  {
+    "creature": "Chakoya Windcaller",
+    "name": "Chakoya Windcaller Soul Core",
+    "img": "chakoya_windcaller.gif"
+  },
+  {
+    "creature": "Crystal Spider",
+    "name": "Crystal Spider Soul Core",
+    "img": "crystal_spider.gif"
+  },
+  {
+    "creature": "Ice Witch",
+    "name": "Ice Witch Soul Core",
+    "img": "ice_witch.gif"
+  },
+  {
+    "creature": "Barbarian Brutetamer",
+    "name": "Barbarian Brutetamer Soul Core",
+    "img": "barbarian_brutetamer.gif"
+  },
+  {
+    "creature": "Barbarian Headsplitter",
+    "name": "Barbarian Headsplitter Soul Core",
+    "img": "barbarian_headsplitter.gif"
+  },
+  {
+    "creature": "Frost Giantess",
+    "name": "Frost Giantess Soul Core",
+    "img": "frost_giantess.gif"
+  },
+  {
+    "creature": "Poacher",
+    "name": "Poacher Soul Core",
+    "img": "poacher.gif"
+  },
+  {
+    "creature": "Goblin Leader",
+    "name": "Goblin Leader Soul Core",
+    "img": "goblin_leader.gif"
+  },
+  {
+    "creature": "Squirrel",
+    "name": "Squirrel Soul Core",
+    "img": "squirrel.gif"
+  },
+  {
+    "creature": "Cat",
+    "name": "Cat Soul Core",
+    "img": "cat.gif"
+  },
+  {
+    "creature": "Undead Jester",
+    "name": "Undead Jester Soul Core",
+    "img": "undead_jester.gif"
+  },
+  {
+    "creature": "Cyclops Smith",
+    "name": "Cyclops Smith Soul Core",
+    "img": "cyclops_smith.gif"
+  },
+  {
+    "creature": "Cyclops Drone",
+    "name": "Cyclops Drone Soul Core",
+    "img": "cyclops_drone.gif"
+  },
+  {
+    "creature": "Troll Champion",
+    "name": "Troll Champion Soul Core",
+    "img": "troll_champion.gif"
+  },
+  {
+    "creature": "Grynch Clan Goblin",
+    "name": "Grynch Clan Goblin Soul Core",
+    "img": "grynch_clan_goblin.gif"
+  },
+  {
+    "creature": "Frost Dragon Hatchling",
+    "name": "Frost Dragon Hatchling Soul Core",
+    "img": "frost_dragon_hatchling.gif"
+  },
+  {
+    "creature": "Sea Serpent",
+    "name": "Sea Serpent Soul Core",
+    "img": "sea_serpent.gif"
+  },
+  {
+    "creature": "Young Sea Serpent",
+    "name": "Young Sea Serpent Soul Core",
+    "img": "young_sea_serpent.gif"
+  },
+  {
+    "creature": "Skeleton Warrior",
+    "name": "Skeleton Warrior Soul Core",
+    "img": "skeleton_warrior.gif"
+  },
+  {
+    "creature": "Massive Earth Elemental",
+    "name": "Massive Earth Elemental Soul Core",
+    "img": "massive_earth_elemental.gif"
+  },
+  {
+    "creature": "Energy Elemental",
+    "name": "Energy Elemental Soul Core",
+    "img": "energy_elemental.gif"
+  },
+  {
+    "creature": "Earth Elemental",
+    "name": "Earth Elemental Soul Core",
+    "img": "earth_elemental.gif"
+  },
+  {
+    "creature": "Bog Raider",
+    "name": "Bog Raider Soul Core",
+    "img": "bog_raider.gif"
+  },
+  {
+    "creature": "Wyrm",
+    "name": "Wyrm Soul Core",
+    "img": "wyrm.gif"
+  },
+  {
+    "creature": "Wisp",
+    "name": "Wisp Soul Core",
+    "img": "wisp.gif"
+  },
+  {
+    "creature": "Goblin Assassin",
+    "name": "Goblin Assassin Soul Core",
+    "img": "goblin_assassin.gif"
+  },
+  {
+    "creature": "Goblin Scavenger",
+    "name": "Goblin Scavenger Soul Core",
+    "img": "goblin_scavenger.gif"
+  },
+  {
+    "creature": "Grim Reaper",
+    "name": "Grim Reaper Soul Core",
+    "img": "grim_reaper.gif"
+  },
+  {
+    "creature": "Vampire Bride",
+    "name": "Vampire Bride Soul Core",
+    "img": "vampire_bride.gif"
+  },
+  {
+    "creature": "Mutated Rat",
+    "name": "Mutated Rat Soul Core",
+    "img": "mutated_rat.gif"
+  },
+  {
+    "creature": "Worker Golem",
+    "name": "Worker Golem Soul Core",
+    "img": "worker_golem.gif"
+  },
+  {
+    "creature": "Undead Gladiator",
+    "name": "Undead Gladiator Soul Core",
+    "img": "undead_gladiator.gif"
+  },
+  {
+    "creature": "Mutated Bat",
+    "name": "Mutated Bat Soul Core",
+    "img": "mutated_bat.gif"
+  },
+  {
+    "creature": "Werewolf",
+    "name": "Werewolf Soul Core",
+    "img": "werewolf.gif"
+  },
+  {
+    "creature": "Haunted Treeling",
+    "name": "Haunted Treeling Soul Core",
+    "img": "haunted_treeling.gif"
+  },
+  {
+    "creature": "Acid Blob",
+    "name": "Acid Blob Soul Core",
+    "img": "acid_blob.gif"
+  },
+  {
+    "creature": "Mercury Blob",
+    "name": "Mercury Blob Soul Core",
+    "img": "mercury_blob.gif"
+  },
+  {
+    "creature": "Zombie",
+    "name": "Zombie Soul Core",
+    "img": "zombie.gif"
+  },
+  {
+    "creature": "Mutated Tiger",
+    "name": "Mutated Tiger Soul Core",
+    "img": "mutated_tiger.gif"
+  },
+  {
+    "creature": "Nightmare Scion",
+    "name": "Nightmare Scion Soul Core",
+    "img": "nightmare_scion.gif"
+  },
+  {
+    "creature": "Hellspawn",
+    "name": "Hellspawn Soul Core",
+    "img": "hellspawn.gif"
+  },
+  {
+    "creature": "Nightstalker",
+    "name": "Nightstalker Soul Core",
+    "img": "nightstalker.gif"
+  },
+  {
+    "creature": "Mutated Human",
+    "name": "Mutated Human Soul Core",
+    "img": "mutated_human.gif"
+  },
+  {
+    "creature": "Gozzler",
+    "name": "Gozzler Soul Core",
+    "img": "gozzler.gif"
+  },
+  {
+    "creature": "Crazed Beggar",
+    "name": "Crazed Beggar Soul Core",
+    "img": "crazed_beggar.gif"
+  },
+  {
+    "creature": "Gang Member",
+    "name": "Gang Member Soul Core",
+    "img": "gang_member.gif"
+  },
+  {
+    "creature": "Gladiator",
+    "name": "Gladiator Soul Core",
+    "img": "gladiator.gif"
+  },
+  {
+    "creature": "Mad Scientist",
+    "name": "Mad Scientist Soul Core",
+    "img": "mad_scientist.gif"
+  },
+  {
+    "creature": "Infernalist",
+    "name": "Infernalist Soul Core",
+    "img": "infernalist.gif"
+  },
+  {
+    "creature": "War Golem",
+    "name": "War Golem Soul Core",
+    "img": "war_golem.gif"
+  },
+  {
+    "creature": "Furious Troll",
+    "name": "Furious Troll Soul Core",
+    "img": "furious_troll.gif"
+  },
+  {
+    "creature": "Troll Legionnaire",
+    "name": "Troll Legionnaire Soul Core",
+    "img": "troll_legionnaire.gif"
+  },
+  {
+    "creature": "Evil Sheep",
+    "name": "Evil Sheep Soul Core",
+    "img": "evil_sheep.gif"
+  },
+  {
+    "creature": "Medusa",
+    "name": "Medusa Soul Core",
+    "img": "medusa.gif"
+  },
+  {
+    "creature": "Acolyte of Darkness",
+    "name": "Acolyte of Darkness Soul Core",
+    "img": "acolyte_of_darkness.gif"
+  },
+  {
+    "creature": "Nightslayer",
+    "name": "Nightslayer Soul Core",
+    "img": "nightslayer.gif"
+  },
+  {
+    "creature": "Bane of Light",
+    "name": "Bane of Light Soul Core",
+    "img": "bane_of_light.gif"
+  },
+  {
+    "creature": "Shadow Hound",
+    "name": "Shadow Hound Soul Core",
+    "img": "shadow_hound.gif"
+  },
+  {
+    "creature": "Midnight Spawn",
+    "name": "Midnight Spawn Soul Core",
+    "img": "midnight_spawn.gif"
+  },
+  {
+    "creature": "Midnight Warrior",
+    "name": "Midnight Warrior Soul Core",
+    "img": "midnight_warrior.gif"
+  },
+  {
+    "creature": "Bride of Night",
+    "name": "Bride of Night Soul Core",
+    "img": "bride_of_night.gif"
+  },
+  {
+    "creature": "Orc Marauder",
+    "name": "Orc Marauder Soul Core",
+    "img": "orc_marauder.gif"
+  },
+  {
+    "creature": "Herald of Gloom",
+    "name": "Herald of Gloom Soul Core",
+    "img": "herald_of_gloom.gif"
+  },
+  {
+    "creature": "Eternal Guardian",
+    "name": "Eternal Guardian Soul Core",
+    "img": "eternal_guardian.gif"
+  },
+  {
+    "creature": "Lizard Zaogun",
+    "name": "Lizard Zaogun Soul Core",
+    "img": "lizard_zaogun.gif"
+  },
+  {
+    "creature": "Lizard Chosen",
+    "name": "Lizard Chosen Soul Core",
+    "img": "lizard_chosen.gif"
+  },
+  {
+    "creature": "Insect Swarm",
+    "name": "Insect Swarm Soul Core",
+    "img": "insect_swarm.gif"
+  },
+  {
+    "creature": "Lizard Dragon Priest",
+    "name": "Lizard Dragon Priest Soul Core",
+    "img": "lizard_dragon_priest.gif"
+  },
+  {
+    "creature": "Lizard Legionnaire",
+    "name": "Lizard Legionnaire Soul Core",
+    "img": "lizard_legionnaire.gif"
+  },
+  {
+    "creature": "Lizard High Guard",
+    "name": "Lizard High Guard Soul Core",
+    "img": "lizard_high_guard.gif"
+  },
+  {
+    "creature": "Killer Caiman",
+    "name": "Killer Caiman Soul Core",
+    "img": "killer_caiman.gif"
+  },
+  {
+    "creature": "Gnarlhound",
+    "name": "Gnarlhound Soul Core",
+    "img": "gnarlhound.gif"
+  },
+  {
+    "creature": "Terramite",
+    "name": "Terramite Soul Core",
+    "img": "terramite.gif"
+  },
+  {
+    "creature": "Wailing Widow",
+    "name": "Wailing Widow Soul Core",
+    "img": "wailing_widow.gif"
+  },
+  {
+    "creature": "Lancer Beetle",
+    "name": "Lancer Beetle Soul Core",
+    "img": "lancer_beetle.gif"
+  },
+  {
+    "creature": "Sandcrawler",
+    "name": "Sandcrawler Soul Core",
+    "img": "sandcrawler.gif"
+  },
+  {
+    "creature": "Ghastly Dragon",
+    "name": "Ghastly Dragon Soul Core",
+    "img": "ghastly_dragon.gif"
+  },
+  {
+    "creature": "Lizard Magistratus",
+    "name": "Lizard Magistratus Soul Core",
+    "img": "lizard_magistratus.gif"
+  },
+  {
+    "creature": "Lizard Noble",
+    "name": "Lizard Noble Soul Core",
+    "img": "lizard_noble.gif"
+  },
+  {
+    "creature": "Brimstone Bug",
+    "name": "Brimstone Bug Soul Core",
+    "img": "brimstone_bug.gif"
+  },
+  {
+    "creature": "Souleater",
+    "name": "Souleater Soul Core",
+    "img": "souleater.gif"
+  },
+  {
+    "creature": "Bane Bringer",
+    "name": "Bane Bringer Soul Core",
+    "img": "bane_bringer.gif"
+  },
+  {
+    "creature": "Cake Golem",
+    "name": "Cake Golem Soul Core",
+    "img": "cake_golem.gif"
+  },
+  {
+    "creature": "Berrypest",
+    "name": "Berrypest Soul Core",
+    "img": "berrypest.gif"
+  },
+  {
+    "creature": "Boar",
+    "name": "Boar Soul Core",
+    "img": "boar.gif"
+  },
+  {
+    "creature": "Stampor",
+    "name": "Stampor Soul Core",
+    "img": "stampor.gif"
+  },
+  {
+    "creature": "Midnight Panther",
+    "name": "Midnight Panther Soul Core",
+    "img": "midnight_panther.gif"
+  },
+  {
+    "creature": "Undead Cavebear",
+    "name": "Undead Cavebear Soul Core",
+    "img": "undead_cavebear.gif"
+  },
+  {
+    "creature": "Crustacea Gigantica",
+    "name": "Crustacea Gigantica Soul Core",
+    "img": "crustacea_gigantica.gif"
+  },
+  {
+    "creature": "Iron Servant",
+    "name": "Iron Servant Soul Core",
+    "img": "iron_servant.gif"
+  },
+  {
+    "creature": "Golden Servant",
+    "name": "Golden Servant Soul Core",
+    "img": "golden_servant.gif"
+  },
+  {
+    "creature": "Clay Guardian",
+    "name": "Clay Guardian Soul Core",
+    "img": "clay_guardian.gif"
+  },
+  {
+    "creature": "Yielothax",
+    "name": "Yielothax Soul Core",
+    "img": "yielothax.gif"
+  },
+  {
+    "creature": "Shaburak Demon",
+    "name": "Shaburak Demon Soul Core",
+    "img": "shaburak_demon.gif"
+  },
+  {
+    "creature": "Askarak Demon",
+    "name": "Askarak Demon Soul Core",
+    "img": "askarak_demon.gif"
+  },
+  {
+    "creature": "Wild Horse",
+    "name": "Wild Horse Soul Core",
+    "img": "wild_horse.gif"
+  },
+  {
+    "creature": "Slug",
+    "name": "Slug Soul Core",
+    "img": "slug.gif"
+  },
+  {
+    "creature": "Bog Frog",
+    "name": "Bog Frog Soul Core",
+    "img": "bog_frog.gif"
+  },
+  {
+    "creature": "Thornfire Wolf",
+    "name": "Thornfire Wolf Soul Core",
+    "img": "thornfire_wolf.gif"
+  },
+  {
+    "creature": "Crystal Wolf",
+    "name": "Crystal Wolf Soul Core",
+    "img": "crystal_wolf.gif"
+  },
+  {
+    "creature": "Elf Overseer",
+    "name": "Elf Overseer Soul Core",
+    "img": "elf_overseer.gif"
+  },
+  {
+    "creature": "Troll Guard",
+    "name": "Troll Guard Soul Core",
+    "img": "troll_guard.gif"
+  },
+  {
+    "creature": "Deepling Warrior",
+    "name": "Deepling Warrior Soul Core",
+    "img": "deepling_warrior.gif"
+  },
+  {
+    "creature": "Deepling Spellsinger",
+    "name": "Deepling Spellsinger Soul Core",
+    "img": "deepling_spellsinger.gif"
+  },
+  {
+    "creature": "Shark",
+    "name": "Shark Soul Core",
+    "img": "shark.gif"
+  },
+  {
+    "creature": "Fish",
+    "name": "Fish Soul Core",
+    "img": "fish.gif"
+  },
+  {
+    "creature": "Crawler",
+    "name": "Crawler Soul Core",
+    "img": "crawler.gif"
+  },
+  {
+    "creature": "Swarmer",
+    "name": "Swarmer Soul Core",
+    "img": "swarmer.gif"
+  },
+  {
+    "creature": "Spitter",
+    "name": "Spitter Soul Core",
+    "img": "spitter.gif"
+  },
+  {
+    "creature": "Waspoid",
+    "name": "Waspoid Soul Core",
+    "img": "waspoid.gif"
+  },
+  {
+    "creature": "Insectoid Worker",
+    "name": "Insectoid Worker Soul Core",
+    "img": "insectoid_worker.gif"
+  },
+  {
+    "creature": "Crystalcrusher",
+    "name": "Crystalcrusher Soul Core",
+    "img": "crystalcrusher.gif"
+  },
+  {
+    "creature": "Mushroom Sniffer",
+    "name": "Mushroom Sniffer Soul Core",
+    "img": "mushroom_sniffer.gif"
+  },
+  {
+    "creature": "Water Buffalo",
+    "name": "Water Buffalo Soul Core",
+    "img": "water_buffalo.gif"
+  },
+  {
+    "creature": "Enraged Crystal Golem",
+    "name": "Enraged Crystal Golem Soul Core",
+    "img": "enraged_crystal_golem.gif"
+  },
+  {
+    "creature": "Humongous Fungus",
+    "name": "Humongous Fungus Soul Core",
+    "img": "humongous_fungus.gif"
+  },
+  {
+    "creature": "Magma Crawler",
+    "name": "Magma Crawler Soul Core",
+    "img": "magma_crawler.gif"
+  },
+  {
+    "creature": "Enslaved Dwarf",
+    "name": "Enslaved Dwarf Soul Core",
+    "img": "enslaved_dwarf.gif"
+  },
+  {
+    "creature": "Lost Berserker",
+    "name": "Lost Berserker Soul Core",
+    "img": "lost_berserker.gif"
+  },
+  {
+    "creature": "Hideous Fungus",
+    "name": "Hideous Fungus Soul Core",
+    "img": "hideous_fungus.gif"
+  },
+  {
+    "creature": "Vulcongra",
+    "name": "Vulcongra Soul Core",
+    "img": "vulcongra.gif"
+  },
+  {
+    "creature": "Wiggler",
+    "name": "Wiggler Soul Core",
+    "img": "wiggler.gif"
+  },
+  {
+    "creature": "Emerald Damselfly",
+    "name": "Emerald Damselfly Soul Core",
+    "img": "emerald_damselfly.gif"
+  },
+  {
+    "creature": "Salamander",
+    "name": "Salamander Soul Core",
+    "img": "salamander.gif"
+  },
+  {
+    "creature": "Marsh Stalker",
+    "name": "Marsh Stalker Soul Core",
+    "img": "marsh_stalker.gif"
+  },
+  {
+    "creature": "Corym Charlatan",
+    "name": "Corym Charlatan Soul Core",
+    "img": "corym_charlatan.gif"
+  },
+  {
+    "creature": "Corym Skirmisher",
+    "name": "Corym Skirmisher Soul Core",
+    "img": "corym_skirmisher.gif"
+  },
+  {
+    "creature": "Corym Vanguard",
+    "name": "Corym Vanguard Soul Core",
+    "img": "corym_vanguard.gif"
+  },
+  {
+    "creature": "Swampling",
+    "name": "Swampling Soul Core",
+    "img": "swampling.gif"
+  },
+  {
+    "creature": "Adventurer",
+    "name": "Adventurer Soul Core",
+    "img": "adventurer.gif"
+  },
+  {
+    "creature": "Lost Husher",
+    "name": "Lost Husher Soul Core",
+    "img": "lost_husher.gif"
+  },
+  {
+    "creature": "Lost Basher",
+    "name": "Lost Basher Soul Core",
+    "img": "lost_basher.gif"
+  },
+  {
+    "creature": "Lost Thrower",
+    "name": "Lost Thrower Soul Core",
+    "img": "lost_thrower.gif"
+  },
+  {
+    "creature": "Vampire Viscount",
+    "name": "Vampire Viscount Soul Core",
+    "img": "vampire_viscount.gif"
+  },
+  {
+    "creature": "Shadow Pupil",
+    "name": "Shadow Pupil Soul Core",
+    "img": "shadow_pupil.gif"
+  },
+  {
+    "creature": "White Shade",
+    "name": "White Shade Soul Core",
+    "img": "white_shade.gif"
+  },
+  {
+    "creature": "Vicious Manbat",
+    "name": "Vicious Manbat Soul Core",
+    "img": "vicious_manbat.gif"
+  },
+  {
+    "creature": "Blood Priest",
+    "name": "Blood Priest Soul Core",
+    "img": "blood_priest.gif"
+  },
+  {
+    "creature": "Elder Wyrm",
+    "name": "Elder Wyrm Soul Core",
+    "img": "elder_wyrm.gif"
+  },
+  {
+    "creature": "Nightfiend",
+    "name": "Nightfiend Soul Core",
+    "img": "nightfiend.gif"
+  },
+  {
+    "creature": "Blood Hand",
+    "name": "Blood Hand Soul Core",
+    "img": "blood_hand.gif"
+  },
+  {
+    "creature": "Gravedigger",
+    "name": "Gravedigger Soul Core",
+    "img": "gravedigger.gif"
+  },
+  {
+    "creature": "Tarnished Spirit",
+    "name": "Tarnished Spirit Soul Core",
+    "img": "tarnished_spirit.gif"
+  },
+  {
+    "creature": "Rorc",
+    "name": "Rorc Soul Core",
+    "img": "rorc.gif"
+  },
+  {
+    "creature": "Leaf Golem",
+    "name": "Leaf Golem Soul Core",
+    "img": "leaf_golem.gif"
+  },
+  {
+    "creature": "Forest Fury",
+    "name": "Forest Fury Soul Core",
+    "img": "forest_fury.gif"
+  },
+  {
+    "creature": "Roaring Lion",
+    "name": "Roaring Lion Soul Core",
+    "img": "roaring_lion.gif"
+  },
+  {
+    "creature": "Wilting Leaf Golem",
+    "name": "Wilting Leaf Golem Soul Core",
+    "img": "wilting_leaf_golem.gif"
+  },
+  {
+    "creature": "Furious Fire Elemental",
+    "name": "Furious Fire Elemental Soul Core",
+    "img": "furious_fire_elemental.gif"
+  },
+  {
+    "creature": "Shock Head",
+    "name": "Shock Head Soul Core",
+    "img": "shock_head.gif"
+  },
+  {
+    "creature": "Sight of Surrender",
+    "name": "Sight of Surrender Soul Core",
+    "img": "sight_of_surrender.gif"
+  },
+  {
+    "creature": "Guzzlemaw",
+    "name": "Guzzlemaw Soul Core",
+    "img": "guzzlemaw.gif"
+  },
+  {
+    "creature": "Silencer",
+    "name": "Silencer Soul Core",
+    "img": "silencer.gif"
+  },
+  {
+    "creature": "Choking Fear",
+    "name": "Choking Fear Soul Core",
+    "img": "choking_fear.gif"
+  },
+  {
+    "creature": "Terrorsleep",
+    "name": "Terrorsleep Soul Core",
+    "img": "terrorsleep.gif"
+  },
+  {
+    "creature": "Retching Horror",
+    "name": "Retching Horror Soul Core",
+    "img": "retching_horror.gif"
+  },
+  {
+    "creature": "Feversleep",
+    "name": "Feversleep Soul Core",
+    "img": "feversleep.gif"
+  },
+  {
+    "creature": "Frazzlemaw",
+    "name": "Frazzlemaw Soul Core",
+    "img": "frazzlemaw.gif"
+  },
+  {
+    "creature": "Glooth Golem",
+    "name": "Glooth Golem Soul Core",
+    "img": "glooth_golem.gif"
+  },
+  {
+    "creature": "Blood Beast",
+    "name": "Blood Beast Soul Core",
+    "img": "blood_beast.gif"
+  },
+  {
+    "creature": "Glooth Anemone",
+    "name": "Glooth Anemone Soul Core",
+    "img": "glooth_anemone.gif"
+  },
+  {
+    "creature": "Metal Gargoyle",
+    "name": "Metal Gargoyle Soul Core",
+    "img": "metal_gargoyle.gif"
+  },
+  {
+    "creature": "Rustheap Golem",
+    "name": "Rustheap Golem Soul Core",
+    "img": "rustheap_golem.gif"
+  },
+  {
+    "creature": "Moohtant",
+    "name": "Moohtant Soul Core",
+    "img": "moohtant.gif"
+  },
+  {
+    "creature": "Minotaur Amazon",
+    "name": "Minotaur Amazon Soul Core",
+    "img": "minotaur_amazon.gif"
+  },
+  {
+    "creature": "Execowtioner",
+    "name": "Execowtioner Soul Core",
+    "img": "execowtioner.gif"
+  },
+  {
+    "creature": "Mooh'Tah Warrior",
+    "name": "Mooh'Tah Warrior Soul Core",
+    "img": "mooh_tah_warrior.gif"
+  },
+  {
+    "creature": "Minotaur Hunter",
+    "name": "Minotaur Hunter Soul Core",
+    "img": "minotaur_hunter.gif"
+  },
+  {
+    "creature": "Worm Priestess",
+    "name": "Worm Priestess Soul Core",
+    "img": "worm_priestess.gif"
+  },
+  {
+    "creature": "Glooth Blob",
+    "name": "Glooth Blob Soul Core",
+    "img": "glooth_blob.gif"
+  },
+  {
+    "creature": "Rot Elemental",
+    "name": "Rot Elemental Soul Core",
+    "img": "rot_elemental.gif"
+  },
+  {
+    "creature": "Devourer",
+    "name": "Devourer Soul Core",
+    "img": "devourer.gif"
+  },
+  {
+    "creature": "Abyssal Calamary",
+    "name": "Abyssal Calamary Soul Core",
+    "img": "abyssal_calamary.gif"
+  },
+  {
+    "creature": "High Voltage Elemental",
+    "name": "High Voltage Elemental Soul Core",
+    "img": "high_voltage_elemental.gif"
+  },
+  {
+    "creature": "Glooth Bandit",
+    "name": "Glooth Bandit Soul Core",
+    "img": "glooth_bandit.gif"
+  },
+  {
+    "creature": "Glooth Brigand",
+    "name": "Glooth Brigand Soul Core",
+    "img": "glooth_brigand.gif"
+  },
+  {
+    "creature": "Raging Fire",
+    "name": "Raging Fire Soul Core",
+    "img": "raging_fire.gif"
+  },
+  {
+    "creature": "Midnight Asura",
+    "name": "Midnight Asura Soul Core",
+    "img": "midnight_asura.gif"
+  },
+  {
+    "creature": "Tainted Soul",
+    "name": "Tainted Soul Soul Core",
+    "img": "tainted_soul.gif"
+  },
+  {
+    "creature": "Omnivora",
+    "name": "Omnivora Soul Core",
+    "img": "omnivora.gif"
+  },
+  {
+    "creature": "Werebear",
+    "name": "Werebear Soul Core",
+    "img": "werebear.gif"
+  },
+  {
+    "creature": "Wereboar",
+    "name": "Wereboar Soul Core",
+    "img": "wereboar.gif"
+  },
+  {
+    "creature": "Vicious Squire",
+    "name": "Vicious Squire Soul Core",
+    "img": "vicious_squire.gif"
+  },
+  {
+    "creature": "Vile Grandmaster",
+    "name": "Vile Grandmaster Soul Core",
+    "img": "vile_grandmaster.gif"
+  },
+  {
+    "creature": "Ogre Savage",
+    "name": "Ogre Savage Soul Core",
+    "img": "ogre_savage.gif"
+  },
+  {
+    "creature": "Clomp",
+    "name": "Clomp Soul Core",
+    "img": "clomp.gif"
+  },
+  {
+    "creature": "Vexclaw",
+    "name": "Vexclaw Soul Core",
+    "img": "vexclaw.gif"
+  },
+  {
+    "creature": "Reality Reaver",
+    "name": "Reality Reaver Soul Core",
+    "img": "reality_reaver.gif"
+  },
+  {
+    "creature": "Breach Brood",
+    "name": "Breach Brood Soul Core",
+    "img": "breach_brood.gif"
+  },
+  {
+    "creature": "Werebadger",
+    "name": "Werebadger Soul Core",
+    "img": "werebadger.gif"
+  },
+  {
+    "creature": "Renegade Knight",
+    "name": "Renegade Knight Soul Core",
+    "img": "renegade_knight.gif"
+  },
+  {
+    "creature": "Ogre Brute",
+    "name": "Ogre Brute Soul Core",
+    "img": "ogre_brute.gif"
+  },
+  {
+    "creature": "Ogre Shaman",
+    "name": "Ogre Shaman Soul Core",
+    "img": "ogre_shaman.gif"
+  },
+  {
+    "creature": "Grimeleech",
+    "name": "Grimeleech Soul Core",
+    "img": "grimeleech.gif"
+  },
+  {
+    "creature": "Hellflayer",
+    "name": "Hellflayer Soul Core",
+    "img": "hellflayer.gif"
+  },
+  {
+    "creature": "Sparkion",
+    "name": "Sparkion Soul Core",
+    "img": "sparkion.gif"
+  },
+  {
+    "creature": "Instable Sparkion",
+    "name": "Instable Sparkion Soul Core",
+    "img": "instable_sparkion.gif"
+  },
+  {
+    "creature": "Instable Breach Brood",
+    "name": "Instable Breach Brood Soul Core",
+    "img": "instable_breach_brood.gif"
+  },
+  {
+    "creature": "Stabilizing Reality Reaver",
+    "name": "Stabilizing Reality Reaver Soul Core",
+    "img": "stabilizing_reality_reaver.gif"
+  },
+  {
+    "creature": "Stabilizing Dread Intruder",
+    "name": "Stabilizing Dread Intruder Soul Core",
+    "img": "stabilizing_dread_intruder.gif"
+  },
+  {
+    "creature": "Cave Parrot",
+    "name": "Cave Parrot Soul Core",
+    "img": "cave_parrot.gif"
+  },
+  {
+    "creature": "Orclops Doomhauler",
+    "name": "Orclops Doomhauler Soul Core",
+    "img": "orclops_doomhauler.gif"
+  },
+  {
+    "creature": "Orclops Ravager",
+    "name": "Orclops Ravager Soul Core",
+    "img": "orclops_ravager.gif"
+  },
+  {
+    "creature": "Broken Shaper",
+    "name": "Broken Shaper Soul Core",
+    "img": "broken_shaper.gif"
+  },
+  {
+    "creature": "Twisted Shaper",
+    "name": "Twisted Shaper Soul Core",
+    "img": "twisted_shaper.gif"
+  },
+  {
+    "creature": "Iron Servant Replica",
+    "name": "Iron Servant Replica Soul Core",
+    "img": "iron_servant_replica.gif"
+  },
+  {
+    "creature": "Shaper Matriarch",
+    "name": "Shaper Matriarch Soul Core",
+    "img": "shaper_matriarch.gif"
+  },
+  {
+    "creature": "Misguided Thief",
+    "name": "Misguided Thief Soul Core",
+    "img": "misguided_thief.gif"
+  },
+  {
+    "creature": "Faun",
+    "name": "Faun Soul Core",
+    "img": "faun.gif"
+  },
+  {
+    "creature": "Twisted Pooka",
+    "name": "Twisted Pooka Soul Core",
+    "img": "twisted_pooka.gif"
+  },
+  {
+    "creature": "Boogy",
+    "name": "Boogy Soul Core",
+    "img": "boogy.gif"
+  },
+  {
+    "creature": "Enfeebled Silencer",
+    "name": "Enfeebled Silencer Soul Core",
+    "img": "enfeebled_silencer.gif"
+  },
+  {
+    "creature": "Barkless Devotee",
+    "name": "Barkless Devotee Soul Core",
+    "img": "barkless_devotee.gif"
+  },
+  {
+    "creature": "Misguided Bully",
+    "name": "Misguided Bully Soul Core",
+    "img": "misguided_bully.gif"
+  },
+  {
+    "creature": "Putrid Mummy",
+    "name": "Putrid Mummy Soul Core",
+    "img": "putrid_mummy.gif"
+  },
+  {
+    "creature": "Pooka",
+    "name": "Pooka Soul Core",
+    "img": "pooka.gif"
+  },
+  {
+    "creature": "Pixie",
+    "name": "Pixie Soul Core",
+    "img": "pixie.gif"
+  },
+  {
+    "creature": "Weakened Frazzlemaw",
+    "name": "Weakened Frazzlemaw Soul Core",
+    "img": "weakened_frazzlemaw.gif"
+  },
+  {
+    "creature": "Nymph",
+    "name": "Nymph Soul Core",
+    "img": "nymph.gif"
+  },
+  {
+    "creature": "Barkless Fanatic",
+    "name": "Barkless Fanatic Soul Core",
+    "img": "barkless_fanatic.gif"
+  },
+  {
+    "creature": "Orc Cult Inquisitor",
+    "name": "Orc Cult Inquisitor Soul Core",
+    "img": "orc_cult_inquisitor.gif"
+  },
+  {
+    "creature": "Orc Cult Minion",
+    "name": "Orc Cult Minion Soul Core",
+    "img": "orc_cult_minion.gif"
+  },
+  {
+    "creature": "Minotaur Cult Follower",
+    "name": "Minotaur Cult Follower Soul Core",
+    "img": "minotaur_cult_follower.gif"
+  },
+  {
+    "creature": "Minotaur Cult Prophet",
+    "name": "Minotaur Cult Prophet Soul Core",
+    "img": "minotaur_cult_prophet.gif"
+  },
+  {
+    "creature": "Minotaur Cult Zealot",
+    "name": "Minotaur Cult Zealot Soul Core",
+    "img": "minotaur_cult_zealot.gif"
+  },
+  {
+    "creature": "Cult Believer",
+    "name": "Cult Believer Soul Core",
+    "img": "cult_believer.gif"
+  },
+  {
+    "creature": "Cult Enforcer",
+    "name": "Cult Enforcer Soul Core",
+    "img": "cult_enforcer.gif"
+  },
+  {
+    "creature": "Stonerefiner",
+    "name": "Stonerefiner Soul Core",
+    "img": "stonerefiner.gif"
+  },
+  {
+    "creature": "Lost Exile",
+    "name": "Lost Exile Soul Core",
+    "img": "lost_exile.gif"
+  },
+  {
+    "creature": "Cave Devourer",
+    "name": "Cave Devourer Soul Core",
+    "img": "cave_devourer.gif"
+  },
+  {
+    "creature": "Tunnel Tyrant",
+    "name": "Tunnel Tyrant Soul Core",
+    "img": "tunnel_tyrant.gif"
+  },
+  {
+    "creature": "Chasm Spawn",
+    "name": "Chasm Spawn Soul Core",
+    "img": "chasm_spawn.gif"
+  },
+  {
+    "creature": "Werefox",
+    "name": "Werefox Soul Core",
+    "img": "werefox.gif"
+  },
+  {
+    "creature": "Ravenous Lava Lurker",
+    "name": "Ravenous Lava Lurker Soul Core",
+    "img": "ravenous_lava_lurker.gif"
+  },
+  {
+    "creature": "True Dawnfire Asura",
+    "name": "True Dawnfire Asura Soul Core",
+    "img": "true_dawnfire_asura.gif"
+  },
+  {
+    "creature": "True Frost Flower Asura",
+    "name": "True Frost Flower Asura Soul Core",
+    "img": "true_frost_flower_asura.gif"
+  },
+  {
+    "creature": "Falcon Knight",
+    "name": "Falcon Knight Soul Core",
+    "img": "falcon_knight.gif"
+  },
+  {
+    "creature": "Brain Squid",
+    "name": "Brain Squid Soul Core",
+    "img": "brain_squid.gif"
+  },
+  {
+    "creature": "Fox",
+    "name": "Fox Soul Core",
+    "img": "fox.gif"
+  },
+  {
+    "creature": "Lava Lurker",
+    "name": "Lava Lurker Soul Core",
+    "img": "lava_lurker.gif"
+  },
+  {
+    "creature": "Frost Flower Asura",
+    "name": "Frost Flower Asura Soul Core",
+    "img": "frost_flower_asura.gif"
+  },
+  {
+    "creature": "True Midnight Asura",
+    "name": "True Midnight Asura Soul Core",
+    "img": "true_midnight_asura.gif"
+  },
+  {
+    "creature": "Floating Savant",
+    "name": "Floating Savant Soul Core",
+    "img": "floating_savant.gif"
+  },
+  {
+    "creature": "Falcon Paladin",
+    "name": "Falcon Paladin Soul Core",
+    "img": "falcon_paladin.gif"
+  },
+  {
+    "creature": "Biting Book",
+    "name": "Biting Book Soul Core",
+    "img": "biting_book.gif"
+  },
+  {
+    "creature": "Ink Blob",
+    "name": "Ink Blob Soul Core",
+    "img": "ink_blob.gif"
+  },
+  {
+    "creature": "Burning Book",
+    "name": "Burning Book Soul Core",
+    "img": "burning_book.gif"
+  },
+  {
+    "creature": "Icecold Book",
+    "name": "Icecold Book Soul Core",
+    "img": "icecold_book.gif"
+  },
+  {
+    "creature": "Energetic Book",
+    "name": "Energetic Book Soul Core",
+    "img": "energetic_book.gif"
+  },
+  {
+    "creature": "Energuardian of Tales",
+    "name": "Energuardian of Tales Soul Core",
+    "img": "energuardian_of_tales.gif"
+  },
+  {
+    "creature": "Rage Squid",
+    "name": "Rage Squid Soul Core",
+    "img": "rage_squid.gif"
+  },
+  {
+    "creature": "Squid Warden",
+    "name": "Squid Warden Soul Core",
+    "img": "squid_warden.gif"
+  },
+  {
+    "creature": "Animated Feather",
+    "name": "Animated Feather Soul Core",
+    "img": "animated_feather.gif"
+  },
+  {
+    "creature": "Skeleton Elite Warrior",
+    "name": "Skeleton Elite Warrior Soul Core",
+    "img": "skeleton_elite_warrior.gif"
+  },
+  {
+    "creature": "Undead Elite Gladiator",
+    "name": "Undead Elite Gladiator Soul Core",
+    "img": "undead_elite_gladiator.gif"
+  },
+  {
+    "creature": "Lumbering Carnivor",
+    "name": "Lumbering Carnivor Soul Core",
+    "img": "lumbering_carnivor.gif"
+  },
+  {
+    "creature": "Menacing Carnivor",
+    "name": "Menacing Carnivor Soul Core",
+    "img": "menacing_carnivor.gif"
+  },
+  {
+    "creature": "Gazer Spectre",
+    "name": "Gazer Spectre Soul Core",
+    "img": "gazer_spectre.gif"
+  },
+  {
+    "creature": "Thanatursus",
+    "name": "Thanatursus Soul Core",
+    "img": "thanatursus.gif"
+  },
+  {
+    "creature": "Crazed Winter Vanguard",
+    "name": "Crazed Winter Vanguard Soul Core",
+    "img": "crazed_winter_vanguard.gif"
+  },
+  {
+    "creature": "Crazed Summer Vanguard",
+    "name": "Crazed Summer Vanguard Soul Core",
+    "img": "crazed_summer_vanguard.gif"
+  },
+  {
+    "creature": "Soul-Broken Harbinger",
+    "name": "Soul-Broken Harbinger Soul Core",
+    "img": "soul_broken_harbinger.gif"
+  },
+  {
+    "creature": "Cobra Assassin",
+    "name": "Cobra Assassin Soul Core",
+    "img": "cobra_assassin.gif"
+  },
+  {
+    "creature": "Burning Gladiator",
+    "name": "Burning Gladiator Soul Core",
+    "img": "burning_gladiator.gif"
+  },
+  {
+    "creature": "Spiky Carnivor",
+    "name": "Spiky Carnivor Soul Core",
+    "img": "spiky_carnivor.gif"
+  },
+  {
+    "creature": "Ripper Spectre",
+    "name": "Ripper Spectre Soul Core",
+    "img": "ripper_spectre.gif"
+  },
+  {
+    "creature": "Burster Spectre",
+    "name": "Burster Spectre Soul Core",
+    "img": "burster_spectre.gif"
+  },
+  {
+    "creature": "Arachnophobica",
+    "name": "Arachnophobica Soul Core",
+    "img": "arachnophobica.gif"
+  },
+  {
+    "creature": "Crazed Winter Rearguard",
+    "name": "Crazed Winter Rearguard Soul Core",
+    "img": "crazed_winter_rearguard.gif"
+  },
+  {
+    "creature": "Crazed Summer Rearguard",
+    "name": "Crazed Summer Rearguard Soul Core",
+    "img": "crazed_summer_rearguard.gif"
+  },
+  {
+    "creature": "Insane Siren",
+    "name": "Insane Siren Soul Core",
+    "img": "insane_siren.gif"
+  },
+  {
+    "creature": "Cobra Scout",
+    "name": "Cobra Scout Soul Core",
+    "img": "cobra_scout.gif"
+  },
+  {
+    "creature": "Priestess of the Wild Sun",
+    "name": "Priestess of the Wild Sun Soul Core",
+    "img": "priestess_of_the_wild_sun.gif"
+  },
+  {
+    "creature": "Black Sphinx Acolyte",
+    "name": "Black Sphinx Acolyte Soul Core",
+    "img": "black_sphinx_acolyte.gif"
+  },
+  {
+    "creature": "Crypt Warden",
+    "name": "Crypt Warden Soul Core",
+    "img": "crypt_warden.gif"
+  },
+  {
+    "creature": "Lamassu",
+    "name": "Lamassu Soul Core",
+    "img": "lamassu.gif"
+  },
+  {
+    "creature": "Feral Sphinx",
+    "name": "Feral Sphinx Soul Core",
+    "img": "feral_sphinx.gif"
+  },
+  {
+    "creature": "Sphinx",
+    "name": "Sphinx Soul Core",
+    "img": "sphinx.gif"
+  },
+  {
+    "creature": "Manticore",
+    "name": "Manticore Soul Core",
+    "img": "manticore.gif"
+  },
+  {
+    "creature": "Young Goanna",
+    "name": "Young Goanna Soul Core",
+    "img": "young_goanna.gif"
+  },
+  {
+    "creature": "Adult Goanna",
+    "name": "Adult Goanna Soul Core",
+    "img": "adult_goanna.gif"
+  },
+  {
+    "creature": "Ogre Ruffian",
+    "name": "Ogre Ruffian Soul Core",
+    "img": "ogre_ruffian.gif"
+  },
+  {
+    "creature": "Ogre Rowdy",
+    "name": "Ogre Rowdy Soul Core",
+    "img": "ogre_rowdy.gif"
+  },
+  {
+    "creature": "Ogre Sage",
+    "name": "Ogre Sage Soul Core",
+    "img": "ogre_sage.gif"
+  },
+  {
+    "creature": "Cobra Vizier",
+    "name": "Cobra Vizier Soul Core",
+    "img": "cobra_vizier.gif"
+  },
+  {
+    "creature": "Flimsy Lost Soul",
+    "name": "Flimsy Lost Soul Soul Core",
+    "img": "flimsy_lost_soul.gif"
+  },
+  {
+    "creature": "Mean Lost Soul",
+    "name": "Mean Lost Soul Soul Core",
+    "img": "mean_lost_soul.gif"
+  },
+  {
+    "creature": "Freakish Lost Soul",
+    "name": "Freakish Lost Soul Soul Core",
+    "img": "freakish_lost_soul.gif"
+  },
+  {
+    "creature": "Bony Sea Devil",
+    "name": "Bony Sea Devil Soul Core",
+    "img": "bony_sea_devil.gif"
+  },
+  {
+    "creature": "Vibrant Phantom",
+    "name": "Vibrant Phantom Soul Core",
+    "img": "vibrant_phantom.gif"
+  },
+  {
+    "creature": "Brachiodemon",
+    "name": "Brachiodemon Soul Core",
+    "img": "brachiodemon.gif"
+  },
+  {
+    "creature": "Branchy Crawler",
+    "name": "Branchy Crawler Soul Core",
+    "img": "branchy_crawler.gif"
+  },
+  {
+    "creature": "Infernal Demon",
+    "name": "Infernal Demon Soul Core",
+    "img": "infernal_demon.gif"
+  },
+  {
+    "creature": "Cursed Prospector",
+    "name": "Cursed Prospector Soul Core",
+    "img": "cursed_prospector.gif"
+  },
+  {
+    "creature": "Evil Prospector",
+    "name": "Evil Prospector Soul Core",
+    "img": "evil_prospector.gif"
+  },
+  {
+    "creature": "Many Faces",
+    "name": "Many Faces Soul Core",
+    "img": "many_faces.gif"
+  },
+  {
+    "creature": "Cloak of Terror",
+    "name": "Cloak of Terror Soul Core",
+    "img": "cloak_of_terror.gif"
+  },
+  {
+    "creature": "Capricious Phantom",
+    "name": "Capricious Phantom Soul Core",
+    "img": "capricious_phantom.gif"
+  },
+  {
+    "creature": "Infernal Phantom",
+    "name": "Infernal Phantom Soul Core",
+    "img": "infernal_phantom.gif"
+  },
+  {
+    "creature": "Rotten Golem",
+    "name": "Rotten Golem Soul Core",
+    "img": "rotten_golem.gif"
+  },
+  {
+    "creature": "Turbulent Elemental",
+    "name": "Turbulent Elemental Soul Core",
+    "img": "turbulent_elemental.gif"
+  },
+  {
+    "creature": "Courage Leech",
+    "name": "Courage Leech Soul Core",
+    "img": "courage_leech.gif"
+  },
+  {
+    "creature": "Mould Phantom",
+    "name": "Mould Phantom Soul Core",
+    "img": "mould_phantom.gif"
+  },
+  {
+    "creature": "Knight's Apparition",
+    "name": "Knight's Apparition Soul Core",
+    "img": "knight_s_apparition.gif"
+  },
+  {
+    "creature": "Paladin's Apparition",
+    "name": "Paladin's Apparition Soul Core",
+    "img": "paladin_s_apparition.gif"
+  },
+  {
+    "creature": "Sorcerer's Apparition",
+    "name": "Sorcerer's Apparition Soul Core",
+    "img": "sorcerer_s_apparition.gif"
+  },
+  {
+    "creature": "Werehyaena",
+    "name": "Werehyaena Soul Core",
+    "img": "werehyaena.gif"
+  },
+  {
+    "creature": "Werehyaena Shaman",
+    "name": "Werehyaena Shaman Soul Core",
+    "img": "werehyaena_shaman.gif"
+  },
+  {
+    "creature": "Werelion",
+    "name": "Werelion Soul Core",
+    "img": "werelion.gif"
+  },
+  {
+    "creature": "Werelioness",
+    "name": "Werelioness Soul Core",
+    "img": "werelioness.gif"
+  },
+  {
+    "creature": "Usurper Knight",
+    "name": "Usurper Knight Soul Core",
+    "img": "usurper_knight.gif"
+  },
+  {
+    "creature": "Usurper Archer",
+    "name": "Usurper Archer Soul Core",
+    "img": "usurper_archer.gif"
+  },
+  {
+    "creature": "Usurper Warlock",
+    "name": "Usurper Warlock Soul Core",
+    "img": "usurper_warlock.gif"
+  },
+  {
+    "creature": "Agrestic Chicken",
+    "name": "Agrestic Chicken Soul Core",
+    "img": "agrestic_chicken.gif"
+  },
+  {
+    "creature": "Pirat Cutthroat",
+    "name": "Pirat Cutthroat Soul Core",
+    "img": "pirat_cutthroat.gif"
+  },
+  {
+    "creature": "Pirat Scoundrel",
+    "name": "Pirat Scoundrel Soul Core",
+    "img": "pirat_scoundrel.gif"
+  },
+  {
+    "creature": "Pirat Bombardier",
+    "name": "Pirat Bombardier Soul Core",
+    "img": "pirat_bombardier.gif"
+  },
+  {
+    "creature": "Pirat Mate",
+    "name": "Pirat Mate Soul Core",
+    "img": "pirat_mate.gif"
+  },
+  {
+    "creature": "Tremendous Tyrant",
+    "name": "Tremendous Tyrant Soul Core",
+    "img": "tremendous_tyrant.gif"
+  },
+  {
+    "creature": "Streaked Devourer",
+    "name": "Streaked Devourer Soul Core",
+    "img": "streaked_devourer.gif"
+  },
+  {
+    "creature": "Crypt Warrior",
+    "name": "Crypt Warrior Soul Core",
+    "img": "crypt_warrior.gif"
+  },
+  {
+    "creature": "Exotic Cave Spider",
+    "name": "Exotic Cave Spider Soul Core",
+    "img": "exotic_cave_spider.gif"
+  },
+  {
+    "creature": "Exotic Bat",
+    "name": "Exotic Bat Soul Core",
+    "img": "exotic_bat.gif"
+  },
+  {
+    "creature": "Lavaworm",
+    "name": "Lavaworm Soul Core",
+    "img": "lavaworm.gif"
+  },
+  {
+    "creature": "Varnished Diremaw",
+    "name": "Varnished Diremaw Soul Core",
+    "img": "varnished_diremaw.gif"
+  },
+  {
+    "creature": "Eyeless Devourer",
+    "name": "Eyeless Devourer Soul Core",
+    "img": "eyeless_devourer.gif"
+  },
+  {
+    "creature": "Blemished Spawn",
+    "name": "Blemished Spawn Soul Core",
+    "img": "blemished_spawn.gif"
+  },
+  {
+    "creature": "Afflicted Strider",
+    "name": "Afflicted Strider Soul Core",
+    "img": "afflicted_strider.gif"
+  },
+  {
+    "creature": "Lavafungus",
+    "name": "Lavafungus Soul Core",
+    "img": "lavafungus.gif"
+  },
+  {
+    "creature": "Cave Chimera",
+    "name": "Cave Chimera Soul Core",
+    "img": "cave_chimera.gif"
+  },
+  {
+    "creature": "Venerable Girtablilu",
+    "name": "Venerable Girtablilu Soul Core",
+    "img": "venerable_girtablilu.gif"
+  },
+  {
+    "creature": "Girtablilu Warrior",
+    "name": "Girtablilu Warrior Soul Core",
+    "img": "girtablilu_warrior.gif"
+  },
+  {
+    "creature": "Bashmu",
+    "name": "Bashmu Soul Core",
+    "img": "bashmu.gif"
+  },
+  {
+    "creature": "Juvenile Bashmu",
+    "name": "Juvenile Bashmu Soul Core",
+    "img": "juvenile_bashmu.gif"
+  },
+  {
+    "creature": "Hulking Carnisylvan",
+    "name": "Hulking Carnisylvan Soul Core",
+    "img": "hulking_carnisylvan.gif"
+  },
+  {
+    "creature": "Poisonous Carnisylvan",
+    "name": "Poisonous Carnisylvan Soul Core",
+    "img": "poisonous_carnisylvan.gif"
+  },
+  {
+    "creature": "Parder",
+    "name": "Parder Soul Core",
+    "img": "parder.gif"
+  },
+  {
+    "creature": "Jungle Moa",
+    "name": "Jungle Moa Soul Core",
+    "img": "jungle_moa.gif"
+  },
+  {
+    "creature": "Two-Headed Turtle",
+    "name": "Two-Headed Turtle Soul Core",
+    "img": "two_headed_turtle.gif"
+  },
+  {
+    "creature": "Foam Stalker",
+    "name": "Foam Stalker Soul Core",
+    "img": "foam_stalker.gif"
+  },
+  {
+    "creature": "Naga Archer",
+    "name": "Naga Archer Soul Core",
+    "img": "naga_archer.gif"
+  },
+  {
+    "creature": "Naga Warrior",
+    "name": "Naga Warrior Soul Core",
+    "img": "naga_warrior.gif"
+  },
+  {
+    "creature": "Sulphider",
+    "name": "Sulphider Soul Core",
+    "img": "sulphider.gif"
+  },
+  {
+    "creature": "Gore Horn",
+    "name": "Gore Horn Soul Core",
+    "img": "gore_horn.gif"
+  },
+  {
+    "creature": "Sabretooth",
+    "name": "Sabretooth Soul Core",
+    "img": "sabretooth.gif"
+  },
+  {
+    "creature": "Emerald Tortoise",
+    "name": "Emerald Tortoise Soul Core",
+    "img": "emerald_tortoise.gif"
+  },
+  {
+    "creature": "Nighthunter",
+    "name": "Nighthunter Soul Core",
+    "img": "nighthunter.gif"
+  },
+  {
+    "creature": "Makara",
+    "name": "Makara Soul Core",
+    "img": "makara.gif"
+  },
+  {
+    "creature": "Sulphur Spouter",
+    "name": "Sulphur Spouter Soul Core",
+    "img": "sulphur_spouter.gif"
+  },
+  {
+    "creature": "Undertaker",
+    "name": "Undertaker Soul Core",
+    "img": "undertaker.gif"
+  },
+  {
+    "creature": "Hulking Prehemoth",
+    "name": "Hulking Prehemoth Soul Core",
+    "img": "hulking_prehemoth.gif"
+  },
+  {
+    "creature": "Stalking Stalk",
+    "name": "Stalking Stalk Soul Core",
+    "img": "stalking_stalk.gif"
+  },
+  {
+    "creature": "Mantosaurus",
+    "name": "Mantosaurus Soul Core",
+    "img": "mantosaurus.gif"
+  },
+  {
+    "creature": "Headpecker",
+    "name": "Headpecker Soul Core",
+    "img": "headpecker.gif"
+  },
+  {
+    "creature": "Noxious Ripptor",
+    "name": "Noxious Ripptor Soul Core",
+    "img": "noxious_ripptor.gif"
+  },
+  {
+    "creature": "Gorerilla",
+    "name": "Gorerilla Soul Core",
+    "img": "gorerilla.gif"
+  },
+  {
+    "creature": "Shrieking Cry-Stal",
+    "name": "Shrieking Cry-Stal Soul Core",
+    "img": "shrieking_cry_stal.gif"
+  },
+  {
+    "creature": "Mercurial Menace",
+    "name": "Mercurial Menace Soul Core",
+    "img": "mercurial_menace.gif"
+  },
+  {
+    "creature": "Crape Man",
+    "name": "Crape Man Soul Core",
+    "img": "crape_man.gif"
+  },
+  {
+    "creature": "Liodile",
+    "name": "Liodile Soul Core",
+    "img": "liodile.gif"
+  },
+  {
+    "creature": "Boar Man",
+    "name": "Boar Man Soul Core",
+    "img": "boar_man.gif"
+  },
+  {
+    "creature": "Harpy",
+    "name": "Harpy Soul Core",
+    "img": "harpy.gif"
+  },
+  {
+    "creature": "Carnivostrich",
+    "name": "Carnivostrich Soul Core",
+    "img": "carnivostrich.gif"
+  },
+  {
+    "creature": "Rhindeer",
+    "name": "Rhindeer Soul Core",
+    "img": "rhindeer.gif"
+  },
+  {
+    "creature": "Iks Pututu",
+    "name": "Iks Pututu Soul Core",
+    "img": "iks_pututu.gif"
+  },
+  {
+    "creature": "Iks Aucar",
+    "name": "Iks Aucar Soul Core",
+    "img": "iks_aucar.gif"
+  },
+  {
+    "creature": "Iks Chuka",
+    "name": "Iks Chuka Soul Core",
+    "img": "iks_chuka.gif"
+  },
+  {
+    "creature": "Cursed Ape",
+    "name": "Cursed Ape Soul Core",
+    "img": "cursed_ape.gif"
+  },
+  {
+    "creature": "Iks Ahpututu",
+    "name": "Iks Ahpututu Soul Core",
+    "img": "iks_ahpututu.gif"
+  },
+  {
+    "creature": "Mycobiontic Beetle",
+    "name": "Mycobiontic Beetle Soul Core",
+    "img": "mycobiontic_beetle.gif"
+  },
+  {
+    "creature": "Meandering Mushroom",
+    "name": "Meandering Mushroom Soul Core",
+    "img": "meandering_mushroom.gif"
+  },
+  {
+    "creature": "Oozing Carcass",
+    "name": "Oozing Carcass Soul Core",
+    "img": "oozing_carcass.gif"
+  },
+  {
+    "creature": "Converter",
+    "name": "Converter Soul Core",
+    "img": "converter.gif"
+  },
+  {
+    "creature": "Oozing Corpus",
+    "name": "Oozing Corpus Soul Core",
+    "img": "oozing_corpus.gif"
+  },
+  {
+    "creature": "Weretiger",
+    "name": "Weretiger Soul Core",
+    "img": "weretiger.gif"
+  },
+  {
+    "creature": "White Weretiger",
+    "name": "White Weretiger Soul Core",
+    "img": "white_weretiger.gif"
+  },
+  {
+    "creature": "Werecrocodile",
+    "name": "Werecrocodile Soul Core",
+    "img": "werecrocodile.gif"
+  },
+  {
+    "creature": "Feral Werecrocodile",
+    "name": "Feral Werecrocodile Soul Core",
+    "img": "feral_werecrocodile.gif"
+  },
+  {
+    "creature": "Werepanther",
+    "name": "Werepanther Soul Core",
+    "img": "werepanther.gif"
+  },
+  {
+    "creature": "White Tiger",
+    "name": "White Tiger Soul Core",
+    "img": "white_tiger.gif"
+  },
+  {
+    "creature": "Bloated Man-Maggot",
+    "name": "Bloated Man-Maggot Soul Core",
+    "img": "bloated_man_maggot.gif"
+  },
+  {
+    "creature": "Rotten Man-Maggot",
+    "name": "Rotten Man-Maggot Soul Core",
+    "img": "rotten_man_maggot.gif"
+  },
+  {
+    "creature": "Walking Pillar",
+    "name": "Walking Pillar Soul Core",
+    "img": "walking_pillar.gif"
+  },
+  {
+    "creature": "Wandering Pillar",
+    "name": "Wandering Pillar Soul Core",
+    "img": "wandering_pillar.gif"
+  },
+  {
+    "creature": "Sopping Carcass",
+    "name": "Sopping Carcass Soul Core",
+    "img": "sopping_carcass.gif"
+  },
+  {
+    "creature": "Sopping Corpus",
+    "name": "Sopping Corpus Soul Core",
+    "img": "sopping_corpus.gif"
+  },
+  {
+    "creature": "Cunning Werepanther",
+    "name": "Cunning Werepanther Soul Core",
+    "img": "cunning_werepanther.gif"
+  },
+  {
+    "creature": "Albino Dragon",
+    "name": "Albino Dragon Soul Core",
+    "img": "albino_dragon.gif"
+  },
+  {
+    "creature": "Iks Yapunac",
+    "name": "Iks Yapunac Soul Core",
+    "img": "iks_yapunac.gif"
+  },
+  {
+    "creature": "Bulltaur Brute",
+    "name": "Bulltaur Brute Soul Core",
+    "img": "bulltaur_brute.gif"
+  },
+  {
+    "creature": "Bulltaur Alchemist",
+    "name": "Bulltaur Alchemist Soul Core",
+    "img": "bulltaur_alchemist.gif"
+  },
+  {
+    "creature": "Bulltaur Forgepriest",
+    "name": "Bulltaur Forgepriest Soul Core",
+    "img": "bulltaur_forgepriest.gif"
+  },
+  {
+    "creature": "Wardragon",
+    "name": "Wardragon Soul Core",
+    "img": "wardragon.gif"
+  },
+  {
+    "creature": "Mega Dragon",
+    "name": "Mega Dragon Soul Core",
+    "img": "mega_dragon.gif"
+  },
+  {
+    "creature": "Mitmah Scout",
+    "name": "Mitmah Scout Soul Core",
+    "img": "mitmah_scout.gif"
+  },
+  {
+    "creature": "Mitmah Seer",
+    "name": "Mitmah Seer Soul Core",
+    "img": "mitmah_seer.gif"
+  },
+  {
+    "creature": "Black Sheep",
+    "name": "Black Sheep Soul Core",
+    "img": "black_sheep.gif"
+  },
+  {
+    "creature": "Squidgy Slime",
+    "name": "Squidgy Slime Soul Core",
+    "img": "squidgy_slime.gif"
+  },
+  {
+    "creature": "Husky",
+    "name": "Husky Soul Core",
+    "img": "husky.gif"
+  },
+  {
+    "creature": "Massive Energy Elemental",
+    "name": "Massive Energy Elemental Soul Core",
+    "img": "massive_energy_elemental.gif"
+  },
+  {
+    "creature": "Evil Sheep Lord",
+    "name": "Evil Sheep Lord Soul Core",
+    "img": "evil_sheep_lord.gif"
+  },
+  {
+    "creature": "Hot Dog",
+    "name": "Hot Dog Soul Core",
+    "img": "hot_dog.gif"
+  },
+  {
+    "creature": "Vampire Pig",
+    "name": "Vampire Pig Soul Core",
+    "img": "vampire_pig.gif"
+  },
+  {
+    "creature": "Killer Rabbit",
+    "name": "Killer Rabbit Soul Core",
+    "img": "killer_rabbit.gif"
+  },
+  {
+    "creature": "Berserker Chicken",
+    "name": "Berserker Chicken Soul Core",
+    "img": "berserker_chicken.gif"
+  },
+  {
+    "creature": "Infernal Frog",
+    "name": "Infernal Frog Soul Core",
+    "img": "infernal_frog.gif"
+  },
+  {
+    "creature": "Undead Mine Worker",
+    "name": "Undead Mine Worker Soul Core",
+    "img": "undead_mine_worker.gif"
+  },
+  {
+    "creature": "Ghoulish Hyaena",
+    "name": "Ghoulish Hyaena Soul Core",
+    "img": "ghoulish_hyaena.gif"
+  },
+  {
+    "creature": "Grave Guard",
+    "name": "Grave Guard Soul Core",
+    "img": "grave_guard.gif"
+  },
+  {
+    "creature": "Sacred Spider",
+    "name": "Sacred Spider Soul Core",
+    "img": "sacred_spider.gif"
+  },
+  {
+    "creature": "Elder Mummy",
+    "name": "Elder Mummy Soul Core",
+    "img": "elder_mummy.gif"
+  },
+  {
+    "creature": "Feverish Citizen",
+    "name": "Feverish Citizen Soul Core",
+    "img": "feverish_citizen.gif"
+  },
+  {
+    "creature": "Starving Wolf",
+    "name": "Starving Wolf Soul Core",
+    "img": "starving_wolf.gif"
+  },
+  {
+    "creature": "Undead Prospector",
+    "name": "Undead Prospector Soul Core",
+    "img": "undead_prospector.gif"
+  },
+  {
+    "creature": "Sandstone Scorpion",
+    "name": "Sandstone Scorpion Soul Core",
+    "img": "sandstone_scorpion.gif"
+  },
+  {
+    "creature": "Tomb Servant",
+    "name": "Tomb Servant Soul Core",
+    "img": "tomb_servant.gif"
+  },
+  {
+    "creature": "Honour Guard",
+    "name": "Honour Guard Soul Core",
+    "img": "honour_guard.gif"
+  },
+  {
+    "creature": "White Deer",
+    "name": "White Deer Soul Core",
+    "img": "white_deer.gif"
+  },
+  {
+    "creature": "Shaburak Lord",
+    "name": "Shaburak Lord Soul Core",
+    "img": "shaburak_lord.gif"
+  },
+  {
+    "creature": "Shaburak Prince",
+    "name": "Shaburak Prince Soul Core",
+    "img": "shaburak_prince.gif"
+  },
+  {
+    "creature": "Askarak Lord",
+    "name": "Askarak Lord Soul Core",
+    "img": "askarak_lord.gif"
+  },
+  {
+    "creature": "Askarak Prince",
+    "name": "Askarak Prince Soul Core",
+    "img": "askarak_prince.gif"
+  },
+  {
+    "creature": "Insectoid Scout",
+    "name": "Insectoid Scout Soul Core",
+    "img": "insectoid_scout.gif"
+  },
+  {
+    "creature": "Filth Toad",
+    "name": "Filth Toad Soul Core",
+    "img": "filth_toad.gif"
+  },
+  {
+    "creature": "Firestarter",
+    "name": "Firestarter Soul Core",
+    "img": "firestarter.gif"
+  },
+  {
+    "creature": "Terrified Elephant",
+    "name": "Terrified Elephant Soul Core",
+    "img": "terrified_elephant.gif"
+  },
+  {
+    "creature": "Ladybug",
+    "name": "Ladybug Soul Core",
+    "img": "ladybug.gif"
+  },
+  {
+    "creature": "Calamary",
+    "name": "Calamary Soul Core",
+    "img": "calamary.gif"
+  },
+  {
+    "creature": "Northern Pike",
+    "name": "Northern Pike Soul Core",
+    "img": "northern_pike.gif"
+  },
+  {
+    "creature": "Kollos",
+    "name": "Kollos Soul Core",
+    "img": "kollos.gif"
+  },
+  {
+    "creature": "Hive Overseer",
+    "name": "Hive Overseer Soul Core",
+    "img": "hive_overseer.gif"
+  },
+  {
+    "creature": "Manta Ray",
+    "name": "Manta Ray Soul Core",
+    "img": "manta_ray.gif"
+  },
+  {
+    "creature": "Jellyfish",
+    "name": "Jellyfish Soul Core",
+    "img": "jellyfish.gif"
+  },
+  {
+    "creature": "Spidris",
+    "name": "Spidris Soul Core",
+    "img": "spidris.gif"
+  },
+  {
+    "creature": "Spidris Elite",
+    "name": "Spidris Elite Soul Core",
+    "img": "spidris_elite.gif"
+  },
+  {
+    "creature": "Grave Robber",
+    "name": "Grave Robber Soul Core",
+    "img": "grave_robber.gif"
+  },
+  {
+    "creature": "Crypt Defiler",
+    "name": "Crypt Defiler Soul Core",
+    "img": "crypt_defiler.gif"
+  },
+  {
+    "creature": "Modified Gnarlhound",
+    "name": "Modified Gnarlhound Soul Core",
+    "img": "modified_gnarlhound.gif"
+  },
+  {
+    "creature": "Stone Devourer",
+    "name": "Stone Devourer Soul Core",
+    "img": "stone_devourer.gif"
+  },
+  {
+    "creature": "Armadile",
+    "name": "Armadile Soul Core",
+    "img": "armadile.gif"
+  },
+  {
+    "creature": "Weeper",
+    "name": "Weeper Soul Core",
+    "img": "weeper.gif"
+  },
+  {
+    "creature": "Orewalker",
+    "name": "Orewalker Soul Core",
+    "img": "orewalker.gif"
+  },
+  {
+    "creature": "Lava Golem",
+    "name": "Lava Golem Soul Core",
+    "img": "lava_golem.gif"
+  },
+  {
+    "creature": "Cliff Strider",
+    "name": "Cliff Strider Soul Core",
+    "img": "cliff_strider.gif"
+  },
+  {
+    "creature": "Ironblight",
+    "name": "Ironblight Soul Core",
+    "img": "ironblight.gif"
+  },
+  {
+    "creature": "Pigeon",
+    "name": "Pigeon Soul Core",
+    "img": "pigeon.gif"
+  },
+  {
+    "creature": "Walker",
+    "name": "Walker Soul Core",
+    "img": "walker.gif"
+  },
+  {
+    "creature": "Renegade Quara Constrictor",
+    "name": "Renegade Quara Constrictor Soul Core",
+    "img": "renegade_quara_constrictor.gif"
+  },
+  {
+    "creature": "Renegade Quara Hydromancer",
+    "name": "Renegade Quara Hydromancer Soul Core",
+    "img": "renegade_quara_hydromancer.gif"
+  },
+  {
+    "creature": "Minotaur Invader",
+    "name": "Minotaur Invader Soul Core",
+    "img": "minotaur_invader.gif"
+  },
+  {
+    "creature": "Redeemed Soul",
+    "name": "Redeemed Soul Soul Core",
+    "img": "redeemed_soul.gif"
+  },
+  {
+    "creature": "Gloom Wolf",
+    "name": "Gloom Wolf Soul Core",
+    "img": "gloom_wolf.gif"
+  },
+  {
+    "creature": "Infected Weeper",
+    "name": "Infected Weeper Soul Core",
+    "img": "infected_weeper.gif"
+  },
+  {
+    "creature": "Little Corym Charlatan",
+    "name": "Little Corym Charlatan Soul Core",
+    "img": "little_corym_charlatan.gif"
+  },
+  {
+    "creature": "Seacrest Serpent",
+    "name": "Seacrest Serpent Soul Core",
+    "img": "seacrest_serpent.gif"
+  },
+  {
+    "creature": "Renegade Quara Mantassin",
+    "name": "Renegade Quara Mantassin Soul Core",
+    "img": "renegade_quara_mantassin.gif"
+  },
+  {
+    "creature": "Renegade Quara Pincher",
+    "name": "Renegade Quara Pincher Soul Core",
+    "img": "renegade_quara_pincher.gif"
+  },
+  {
+    "creature": "Renegade Quara Predator",
+    "name": "Renegade Quara Predator Soul Core",
+    "img": "renegade_quara_predator.gif"
+  },
+  {
+    "creature": "Noble Lion",
+    "name": "Noble Lion Soul Core",
+    "img": "noble_lion.gif"
+  },
+  {
+    "creature": "Ghost Wolf",
+    "name": "Ghost Wolf Soul Core",
+    "img": "ghost_wolf.gif"
+  },
+  {
+    "creature": "Elder Forest Fury",
+    "name": "Elder Forest Fury Soul Core",
+    "img": "elder_forest_fury.gif"
+  },
+  {
+    "creature": "Golden Servant Replica",
+    "name": "Golden Servant Replica Soul Core",
+    "img": "golden_servant_replica.gif"
+  },
+  {
+    "creature": "Haunted Dragon",
+    "name": "Haunted Dragon Soul Core",
+    "img": "haunted_dragon.gif"
+  },
+  {
+    "creature": "Ice Dragon",
+    "name": "Ice Dragon Soul Core",
+    "img": "ice_dragon.gif"
+  },
+  {
+    "creature": "Stone Rhino",
+    "name": "Stone Rhino Soul Core",
+    "img": "stone_rhino.gif"
+  },
+  {
+    "creature": "Swan Maiden",
+    "name": "Swan Maiden Soul Core",
+    "img": "swan_maiden.gif"
+  },
+  {
+    "creature": "Goldhanded Cultist",
+    "name": "Goldhanded Cultist Soul Core",
+    "img": "goldhanded_cultist.gif"
+  },
+  {
+    "creature": "Goldhanded Cultist Bride",
+    "name": "Goldhanded Cultist Bride Soul Core",
+    "img": "goldhanded_cultist_bride.gif"
+  },
+  {
+    "creature": "Orc Cultist",
+    "name": "Orc Cultist Soul Core",
+    "img": "orc_cultist.gif"
+  },
+  {
+    "creature": "Orc Cult Priest",
+    "name": "Orc Cult Priest Soul Core",
+    "img": "orc_cult_priest.gif"
+  },
+  {
+    "creature": "Orc Cult Fanatic",
+    "name": "Orc Cult Fanatic Soul Core",
+    "img": "orc_cult_fanatic.gif"
+  },
+  {
+    "creature": "Cult Scholar",
+    "name": "Cult Scholar Soul Core",
+    "img": "cult_scholar.gif"
+  },
+  {
+    "creature": "Mole",
+    "name": "Mole Soul Core",
+    "img": "mole.gif"
+  },
+  {
+    "creature": "Arctic Faun",
+    "name": "Arctic Faun Soul Core",
+    "img": "arctic_faun.gif"
+  },
+  {
+    "creature": "Cursed Book",
+    "name": "Cursed Book Soul Core",
+    "img": "cursed_book.gif"
+  },
+  {
+    "creature": "Guardian of Tales",
+    "name": "Guardian of Tales Soul Core",
+    "img": "guardian_of_tales.gif"
+  },
+  {
+    "creature": "Lacewing Moth",
+    "name": "Lacewing Moth Soul Core",
+    "img": "lacewing_moth.gif"
+  },
+  {
+    "creature": "Hibernal Moth",
+    "name": "Hibernal Moth Soul Core",
+    "img": "hibernal_moth.gif"
+  },
+  {
+    "creature": "Schiach",
+    "name": "Schiach Soul Core",
+    "img": "schiach.gif"
+  },
+  {
+    "creature": "Animated Snowman",
+    "name": "Animated Snowman Soul Core",
+    "img": "animated_snowman.gif"
+  },
+  {
+    "creature": "Gryphon",
+    "name": "Gryphon Soul Core",
+    "img": "gryphon.gif"
+  },
+  {
+    "creature": "Roast Pork",
+    "name": "Roast Pork Soul Core",
+    "img": "roast_pork.gif"
+  },
+  {
+    "creature": "Cow",
+    "name": "Cow Soul Core",
+    "img": "cow.gif"
+  },
+  {
+    "creature": "Flying Book",
+    "name": "Flying Book Soul Core",
+    "img": "flying_book.gif"
+  },
+  {
+    "creature": "Knowledge Elemental",
+    "name": "Knowledge Elemental Soul Core",
+    "img": "knowledge_elemental.gif"
+  },
+  {
+    "creature": "Percht",
+    "name": "Percht Soul Core",
+    "img": "percht.gif"
+  },
+  {
+    "creature": "Baleful Bunny",
+    "name": "Baleful Bunny Soul Core",
+    "img": "baleful_bunny.gif"
+  },
+  {
+    "creature": "Orger",
+    "name": "Orger Soul Core",
+    "img": "orger.gif"
+  },
+  {
+    "creature": "Loricate Orger",
+    "name": "Loricate Orger Soul Core",
+    "img": "loricate_orger.gif"
+  },
+  {
+    "creature": "Bellicose Orger",
+    "name": "Bellicose Orger Soul Core",
+    "img": "bellicose_orger.gif"
+  },
+  {
+    "creature": "White Lion",
+    "name": "White Lion Soul Core",
+    "img": "white_lion.gif"
+  },
+  {
+    "creature": "Iks Churrascan",
+    "name": "Iks Churrascan Soul Core",
+    "img": "iks_churrascan.gif"
+  },
+  {
+    "creature": "Rabid Wolf",
+    "name": "Rabid Wolf Soul Core",
+    "img": "rabid_wolf.gif"
+  },
+  {
+    "creature": "Ragged Rabid Wolf",
+    "name": "Ragged Rabid Wolf Soul Core",
+    "img": "ragged_rabid_wolf.gif"
+  },
+  {
+    "creature": "Nibblemaw",
+    "name": "Nibblemaw Soul Core",
+    "img": "nibblemaw.gif"
+  },
+  {
+    "creature": "Candy Floss Elemental",
+    "name": "Candy Floss Elemental Soul Core",
+    "img": "candy_floss_elemental.gif"
+  },
+  {
+    "creature": "Goggle Cake",
+    "name": "Goggle Cake Soul Core",
+    "img": "goggle_cake.gif"
+  },
+  {
+    "creature": "Candy Horror",
+    "name": "Candy Horror Soul Core",
+    "img": "candy_horror.gif"
+  },
+  {
+    "creature": "Rootthing Bug Tracker",
+    "name": "Rootthing Bug Tracker Soul Core",
+    "img": "rootthing_bug_tracker.gif"
+  },
+  {
+    "creature": "Rootthing Amber Shaper",
+    "name": "Rootthing Amber Shaper Soul Core",
+    "img": "rootthing_amber_shaper.gif"
+  },
+  {
+    "creature": "Rootthing Nutshell",
+    "name": "Rootthing Nutshell Soul Core",
+    "img": "rootthing_nutshell.gif"
+  },
+  {
+    "creature": "Quara Plunderer",
+    "name": "Quara Plunderer Soul Core",
+    "img": "quara_plunderer.gif"
+  },
+  {
+    "creature": "Chocolate Blob",
+    "name": "Chocolate Blob Soul Core",
+    "img": "chocolate_blob.gif"
+  },
+  {
+    "creature": "Honey Elemental",
+    "name": "Honey Elemental Soul Core",
+    "img": "honey_elemental.gif"
+  },
+  {
+    "creature": "Truffle Cook",
+    "name": "Truffle Cook Soul Core",
+    "img": "truffle_cook.gif"
+  },
+  {
+    "creature": "Fruit Drop",
+    "name": "Fruit Drop Soul Core",
+    "img": "fruit_drop.gif"
+  },
+  {
+    "creature": "Quara Raider",
+    "name": "Quara Raider Soul Core",
+    "img": "quara_raider.gif"
+  },
+  {
+    "creature": "Quara Looter",
+    "name": "Quara Looter Soul Core",
+    "img": "quara_looter.gif"
+  },
+  {
+    "creature": "Gingerbread Man",
+    "name": "Gingerbread Man Soul Core",
+    "img": "gingerbread_man.gif"
+  },
+  {
+    "creature": "Angry Sugar Fairy",
+    "name": "Angry Sugar Fairy Soul Core",
+    "img": "angry_sugar_fairy.gif"
+  },
+  {
+    "creature": "Sugar Cube Worker",
+    "name": "Sugar Cube Worker Soul Core",
+    "img": "sugar_cube_worker.gif"
+  },
+  {
+    "creature": "Ominous",
+    "name": "Ominous Soul Core",
+    "img": "ominous.gif"
+  },
+  {
+    "creature": "Truffle",
+    "name": "Truffle Soul Core",
+    "img": "truffle.gif"
+  },
+  {
+    "creature": "Sugar Cube",
+    "name": "Sugar Cube Soul Core",
+    "img": "sugar_cube.gif"
+  },
+  {
+    "creature": "Cream Blob",
+    "name": "Cream Blob Soul Core",
+    "img": "cream_blob.gif"
+  },
+  {
+    "creature": "Wafer Paper Butterfly",
+    "name": "Wafer Paper Butterfly Soul Core",
+    "img": "wafer_paper_butterfly.gif"
+  },
+  {
+    "creature": "Damaged Crystal Golem",
+    "name": "Damaged Crystal Golem Soul Core",
+    "img": "damaged_crystal_golem.gif"
+  },
+  {
+    "creature": "Damaged Worker Golem",
+    "name": "Damaged Worker Golem Soul Core",
+    "img": "damaged_worker_golem.gif"
+  },
+  {
+    "creature": "Dark Apprentice",
+    "name": "Dark Apprentice Soul Core",
+    "img": "dark_apprentice.gif"
+  },
+  {
+    "creature": "Dark Carnisylvan",
+    "name": "Dark Carnisylvan Soul Core",
+    "img": "dark_carnisylvan.gif"
+  },
+  {
+    "creature": "Dark Faun",
+    "name": "Dark Faun Soul Core",
+    "img": "dark_faun.gif"
+  },
+  {
+    "creature": "Dark Magician",
+    "name": "Dark Magician Soul Core",
+    "img": "dark_magician.gif"
+  },
+  {
+    "creature": "Dark Monk",
+    "name": "Dark Monk Soul Core",
+    "img": "dark_monk.gif"
+  },
+  {
+    "creature": "Darklight Construct",
+    "name": "Darklight Construct Soul Core",
+    "img": "darklight_construct.gif"
+  },
+  {
+    "creature": "Dark Torturer",
+    "name": "Dark Torturer Soul Core",
+    "img": "dark_torturer.gif"
+  },
+  {
+    "creature": "Darklight Emitter",
+    "name": "Darklight Emitter Soul Core",
+    "img": "darklight_emitter.gif"
+  },
+  {
+    "creature": "Darklight Matter",
+    "name": "Darklight Matter Soul Core",
+    "img": "darklight_matter.gif"
+  },
+  {
+    "creature": "Darklight Source",
+    "name": "Darklight Source Soul Core",
+    "img": "darklight_source.gif"
+  },
+  {
+    "creature": "Darklight Striker",
+    "name": "Darklight Striker Soul Core",
+    "img": "darklight_striker.gif"
+  },
+  {
+    "creature": "Dawnfire Asura",
+    "name": "Dawnfire Asura Soul Core",
+    "img": "dawnfire_asura.gif"
+  },
+  {
+    "creature": "Death Blob",
+    "name": "Death Blob Soul Core",
+    "img": "death_blob.gif"
+  },
+  {
+    "creature": "Death Priest",
+    "name": "Death Priest Soul Core",
+    "img": "death_priest.gif"
+  },
+  {
+    "creature": "Deathling Scout",
+    "name": "Deathling Scout Soul Core",
+    "img": "deathling_scout.gif"
+  },
+  {
+    "creature": "Deathling Spellsinger",
+    "name": "Deathling Spellsinger Soul Core",
+    "img": "deathling_spellsinger.gif"
+  },
+  {
+    "creature": "Deepling Brawler",
+    "name": "Deepling Brawler Soul Core",
+    "img": "deepling_brawler.gif"
+  },
+  {
+    "creature": "Deepling Elite",
+    "name": "Deepling Elite Soul Core",
+    "img": "deepling_elite.gif"
+  },
+  {
+    "creature": "Deepling Guard",
+    "name": "Deepling Guard Soul Core",
+    "img": "deepling_guard.gif"
+  },
+  {
+    "creature": "Deepling Master Librarian",
+    "name": "Deepling Master Librarian Soul Core",
+    "img": "deepling_master_librarian.gif"
+  },
+  {
+    "creature": "Deepling Scout",
+    "name": "Deepling Scout Soul Core",
+    "img": "deepling_scout.gif"
+  },
+  {
+    "creature": "Deepling Tyrant",
+    "name": "Deepling Tyrant Soul Core",
+    "img": "deepling_tyrant.gif"
+  },
+  {
+    "creature": "Deepling Worker",
+    "name": "Deepling Worker Soul Core",
+    "img": "deepling_worker.gif"
+  },
+  {
+    "creature": "Deepsea Blood Crab",
+    "name": "Deepsea Blood Crab Soul Core",
+    "img": "deepsea_blood_crab.gif"
+  },
+  {
+    "creature": "Deepworm",
+    "name": "Deepworm Soul Core",
+    "img": "deepworm.gif"
+  },
+  {
+    "creature": "Deer",
+    "name": "Deer Soul Core",
+    "img": "deer.gif"
+  },
+  {
+    "creature": "Defiler",
+    "name": "Defiler Soul Core",
+    "img": "defiler.gif"
+  },
+  {
+    "creature": "Demon Outcast",
+    "name": "Demon Outcast Soul Core",
+    "img": "demon_outcast.gif"
+  },
+  {
+    "creature": "Demon Parrot",
+    "name": "Demon Parrot Soul Core",
+    "img": "demon_parrot.gif"
+  },
+  {
+    "creature": "Demon Skeleton",
+    "name": "Demon Skeleton Soul Core",
+    "img": "demon_skeleton.gif"
+  },
+  {
+    "creature": "Demon",
+    "name": "Demon Soul Core",
+    "img": "demon.gif"
+  },
+  {
+    "creature": "Destroyer",
+    "name": "Destroyer Soul Core",
+    "img": "destroyer.gif"
+  },
+  {
+    "creature": "Diabolic Imp",
+    "name": "Diabolic Imp Soul Core",
+    "img": "diabolic_imp.gif"
+  },
+  {
+    "creature": "Diamond Servant Replica",
+    "name": "Diamond Servant Replica Soul Core",
+    "img": "diamond_servant_replica.gif"
+  },
+  {
+    "creature": "Diamond Servant",
+    "name": "Diamond Servant Soul Core",
+    "img": "diamond_servant.gif"
+  },
+  {
+    "creature": "Dire Penguin",
+    "name": "Dire Penguin Soul Core",
+    "img": "dire_penguin.gif"
+  },
+  {
+    "creature": "Diremaw",
+    "name": "Diremaw Soul Core",
+    "img": "diremaw.gif"
+  },
+  {
+    "creature": "Distorted Phantom",
+    "name": "Distorted Phantom Soul Core",
+    "img": "distorted_phantom.gif"
+  },
+  {
+    "creature": "Dog",
+    "name": "Dog Soul Core",
+    "img": "dog.gif"
+  },
+  {
+    "creature": "Doom Deer",
+    "name": "Doom Deer Soul Core",
+    "img": "doom_deer.gif"
+  },
+  {
+    "creature": "Doomsday Cultist",
+    "name": "Doomsday Cultist Soul Core",
+    "img": "doomsday_cultist.gif"
+  },
+  {
+    "creature": "Dragolisk",
+    "name": "Dragolisk Soul Core",
+    "img": "dragolisk.gif"
+  },
+  {
+    "creature": "Dragon Hatchling",
+    "name": "Dragon Hatchling Soul Core",
+    "img": "dragon_hatchling.gif"
+  },
+  {
+    "creature": "Dragon Lord Hatchling",
+    "name": "Dragon Lord Hatchling Soul Core",
+    "img": "dragon_lord_hatchling.gif"
+  },
+  {
+    "creature": "Dragon Lord",
+    "name": "Dragon Lord Soul Core",
+    "img": "dragon_lord.gif"
+  },
+  {
+    "creature": "Dragon",
+    "name": "Dragon Soul Core",
+    "img": "dragon.gif"
+  },
+  {
+    "creature": "Dragonling",
+    "name": "Dragonling Soul Core",
+    "img": "dragonling.gif"
+  },
+  {
+    "creature": "Draken Abomination",
+    "name": "Draken Abomination Soul Core",
+    "img": "draken_abomination.gif"
+  },
+  {
+    "creature": "Draken Elite",
+    "name": "Draken Elite Soul Core",
+    "img": "draken_elite.gif"
+  },
+  {
+    "creature": "Draken Spellweaver",
+    "name": "Draken Spellweaver Soul Core",
+    "img": "draken_spellweaver.gif"
+  },
+  {
+    "creature": "Draken Warmaster",
+    "name": "Draken Warmaster Soul Core",
+    "img": "draken_warmaster.gif"
+  },
+  {
+    "creature": "Draptor",
+    "name": "Draptor Soul Core",
+    "img": "draptor.gif"
+  },
+  {
+    "creature": "Dread Intruder",
+    "name": "Dread Intruder Soul Core",
+    "img": "dread_intruder.gif"
+  },
+  {
+    "creature": "Drillworm",
+    "name": "Drillworm Soul Core",
+    "img": "drillworm.gif"
+  },
+  {
+    "creature": "Dromedary",
+    "name": "Dromedary Soul Core",
+    "img": "dromedary.gif"
+  },
+  {
+    "creature": "Druid's Apparition",
+    "name": "Druid's Apparition Soul Core",
+    "img": "druid_s_apparition.gif"
+  },
+  {
+    "creature": "Dryad",
+    "name": "Dryad Soul Core",
+    "img": "dryad.gif"
+  },
+  {
+    "creature": "Duskbringer",
+    "name": "Duskbringer Soul Core",
+    "img": "duskbringer.gif"
+  },
+  {
+    "creature": "Dwarf Geomancer",
+    "name": "Dwarf Geomancer Soul Core",
+    "img": "dwarf_geomancer.gif"
+  },
+  {
+    "creature": "Dwarf Guard",
+    "name": "Dwarf Guard Soul Core",
+    "img": "dwarf_guard.gif"
+  },
+  {
+    "creature": "Dwarf Henchman",
+    "name": "Dwarf Henchman Soul Core",
+    "img": "dwarf_henchman.gif"
+  },
+  {
+    "creature": "Dwarf Soldier",
+    "name": "Dwarf Soldier Soul Core",
+    "img": "dwarf_soldier.gif"
+  },
+  {
+    "creature": "Dwarf",
+    "name": "Dwarf Soul Core",
+    "img": "dwarf.gif"
+  },
+  {
+    "creature": "Dworc Fleshhunter",
+    "name": "Dworc Fleshhunter Soul Core",
+    "img": "dworc_fleshhunter.gif"
+  },
+  {
+    "creature": "Dworc Venomsniper",
+    "name": "Dworc Venomsniper Soul Core",
+    "img": "dworc_venomsniper.gif"
+  },
+  {
+    "creature": "Dworc Voodoomaster",
+    "name": "Dworc Voodoomaster Soul Core",
+    "img": "dworc_voodoomaster.gif"
+  },
+  {
+    "creature": "Gorger Inferniarch",
+    "name": "Gorger Inferniarch Soul Core",
+    "img": "gorger_inferniarch.gif"
+  },
+  {
+    "creature": "Hellhunter Inferniarch",
+    "name": "Hellhunter Inferniarch Soul Core",
+    "img": "hellhunter_inferniarch.gif"
+  },
+  {
+    "creature": "Sineater Inferniarch",
+    "name": "Sineater Inferniarch Soul Core",
+    "img": "sineater_inferniarch.gif"
+  },
+  {
+    "creature": "Spellreaper Inferniarch",
+    "name": "Spellreaper Inferniarch Soul Core",
+    "img": "spellreaper_inferniarch.gif"
+  },
+  {
+    "creature": "Brinebrute Inferniarch",
+    "name": "Brinebrute Inferniarch Soul Core",
+    "img": "brinebrute_inferniarch.gif"
+  },
+  {
+    "creature": "Broodrider Inferniarch",
+    "name": "Broodrider Inferniarch Soul Core",
+    "img": "broodrider_inferniarch.gif"
+  },
+  {
+    "creature": "Monk's Apparition",
+    "name": "Monk's Apparition Soul Core",
+    "img": "monk_s_apparition.gif"
+  },
+  {
+    "creature": "Norcferatu Heartless",
+    "name": "Norcferatu Heartless Soul Core",
+    "img": "norcferatu_heartless.gif"
+  },
+  {
+    "creature": "Varg",
+    "name": "Varg Soul Core",
+    "img": "varg.gif"
+  },
+  {
+    "creature": "Norcferatu Nightweaver",
+    "name": "Norcferatu Nightweaver Soul Core",
+    "img": "norcferatu_nightweaver.gif"
+  },
+  {
+    "creature": "Dworc Shadowstalker",
+    "name": "Dworc Shadowstalker Soul Core",
+    "img": "dworc_shadowstalker.gif"
+  },
+  {
+    "creature": "Orclops Bloodbreaker",
+    "name": "Orclops Bloodbreaker Soul Core",
+    "img": "orclops_bloodbreaker.gif"
+  },
+  {
+    "creature": "Gloom Maw",
+    "name": "Gloom Maw Soul Core",
+    "img": "gloom_maw.gif"
+  },
+  {
+    "creature": "Cinder Wyrmling",
+    "name": "Cinder Wyrmling Soul Core",
+    "img": "cinder_wyrmling.gif"
+  },
+  {
+    "creature": "Bramble Wyrmling",
+    "name": "Bramble Wyrmling Soul Core",
+    "img": "bramble_wyrmling.gif"
+  },
+  {
+    "creature": "Headwalker",
+    "name": "Headwalker Soul Core",
+    "img": "headwalker.gif"
+  },
+  {
+    "creature": "Bluebeak",
+    "name": "Bluebeak Soul Core",
+    "img": "bluebeak.gif"
+  },
+  {
+    "creature": "Hawk Hopper",
+    "name": "Hawk Hopper Soul Core",
+    "img": "hawk_hopper.gif"
+  },
+  {
+    "creature": "Shell Drake",
+    "name": "Shell Drake Soul Core",
+    "img": "shell_drake.gif"
+  },
+  {
+    "creature": "Crusader",
+    "name": "Crusader Soul Core",
+    "img": "crusader.gif"
+  },
+  {
+    "creature": "Lion Hydra",
+    "name": "Lion Hydra Soul Core",
+    "img": "lion_hydra.gif"
+  },
+  {
+    "creature": "Ink Splash",
+    "name": "Ink Splash Soul Core",
+    "img": "ink_splash.gif"
+  },
+  {
+    "creature": "Muglex Clan Footman",
+    "name": "Muglex Clan Footman Soul Core",
+    "img": "muglex_clan_footman.gif"
+  },
+  {
+    "creature": "Corrupted Ghost",
+    "name": "Corrupted Ghost Soul Core",
+    "img": "corrupted_ghost.gif"
+  },
+  {
+    "creature": "Corrupted Skeleton",
+    "name": "Corrupted Skeleton Soul Core",
+    "img": "corrupted_skeleton.gif"
+  },
+  {
+    "creature": "Muglex Clan Assassin",
+    "name": "Muglex Clan Assassin Soul Core",
+    "img": "muglex_clan_assassin.gif"
+  },
+  {
+    "creature": "Raubritter Skirmisher",
+    "name": "Raubritter Skirmisher Soul Core",
+    "img": "raubritter_skirmisher.gif"
+  },
+  {
+    "creature": "Raubritter Marksman",
+    "name": "Raubritter Marksman Soul Core",
+    "img": "raubritter_marksman.gif"
+  },
+  {
+    "creature": "Raubritter Chastener",
+    "name": "Raubritter Chastener Soul Core",
+    "img": "raubritter_chastener.gif"
+  },
+  {
+    "creature": "Cyclursus",
+    "name": "Cyclursus Soul Core",
+    "img": "cyclursus.gif"
+  },
+  {
+    "creature": "Crypt Fiend",
+    "name": "Crypt Fiend Soul Core",
+    "img": "crypt_fiend.gif"
+  },
+  {
+    "creature": "Walking Dread",
+    "name": "Walking Dread Soul Core",
+    "img": "walking_dread.gif"
+  },
+  {
+    "creature": "Crypt Construct",
+    "name": "Crypt Construct Soul Core",
+    "img": "crypt_construct.gif"
+  },
+  {
+    "creature": "Haunted Hunter",
+    "name": "Haunted Hunter Soul Core",
+    "img": "haunted_hunter.gif"
+  },
+  {
+    "creature": "Creepy Crawler",
+    "name": "Creepy Crawler Soul Core",
+    "img": "creepy_crawler.gif"
+  },
+  {
+    "creature": "Night Harpy",
+    "name": "Night Harpy Soul Core",
+    "img": "night_harpy.gif"
+  },
+  {
+    "creature": "Roaming Dread",
+    "name": "Roaming Dread Soul Core",
+    "img": "roaming_dread.gif"
+  },
+  {
+    "creature": "Crypt Mage",
+    "name": "Crypt Mage Soul Core",
+    "img": "crypt_mage.gif"
+  },
+  {
+    "creature": "Stag",
+    "name": "Stag Soul Core",
+    "img": "stag.gif"
+  },
+  {
+    "creature": "Imperial",
+    "name": "Imperial Soul Core",
+    "img": "imperial.gif"
+  },
+  {
+    "creature": "Pirate Navigator",
+    "name": "Pirate Navigator Soul Core",
+    "img": "pirate_navigator.gif"
+  },
+  {
+    "creature": "Pirate Gunner",
+    "name": "Pirate Gunner Soul Core",
+    "img": "pirate_gunner.gif"
+  },
+  {
+    "creature": "Pirate Cook",
+    "name": "Pirate Cook Soul Core",
+    "img": "pirate_cook.gif"
+  },
+  {
+    "creature": "Pirate Quartermaster",
+    "name": "Pirate Quartermaster Soul Core",
+    "img": "pirate_quartermaster.gif"
+  },
+  {
+    "creature": "Sea Captain",
+    "name": "Sea Captain Soul Core",
+    "img": "sea_captain.gif"
+  },
+  {
+    "creature": "Lizard Henchman",
+    "name": "Lizard Henchman Soul Core",
+    "img": "lizard_henchman.gif"
+  },
+  {
+    "creature": "Lizard Magician",
+    "name": "Lizard Magician Soul Core",
+    "img": "lizard_magician.gif"
+  },
+  {
+    "creature": "Lizard Swordmaster",
+    "name": "Lizard Swordmaster Soul Core",
+    "img": "lizard_swordmaster.gif"
+  },
+  {
+    "creature": "Lizard Executioner",
+    "name": "Lizard Executioner Soul Core",
+    "img": "lizard_executioner.gif"
+  },
+  {
+    "creature": "Lizard Commander",
+    "name": "Lizard Commander Soul Core",
+    "img": "lizard_commander.gif"
+  },
+  {
+    "creature": "Infernoid Blob",
+    "name": "Infernoid Blob Soul Core",
+    "img": "infernoid_blob.gif"
+  },
+  {
+    "creature": "Infernoid Hound",
+    "name": "Infernoid Hound Soul Core",
+    "img": "infernoid_hound.gif"
+  },
+  {
+    "creature": "Infernoid Soul",
+    "name": "Infernoid Soul Soul Core",
+    "img": "infernoid_soul.gif"
+  },
+  {
+    "creature": "Infernoid Spiritual",
+    "name": "Infernoid Spiritual Soul Core",
+    "img": "infernoid_spiritual.gif"
+  },
+  {
+    "creature": "Winged Jaracal",
+    "name": "Winged Jaracal Soul Core",
+    "img": "winged_jaracal.gif"
+  },
+  {
+    "creature": "Iceplume Strider",
+    "name": "Iceplume Strider Soul Core",
+    "img": "iceplume_strider.gif"
+  },
+  {
+    "creature": "Silverfrost Sentinel",
+    "name": "Silverfrost Sentinel Soul Core",
+    "img": "silverfrost_sentinel.gif"
+  },
+  {
+    "creature": "True Feverbloom Asura",
+    "name": "True Feverbloom Asura Soul Core",
+    "img": "true_feverbloom_asura.gif"
+  },
+  {
+    "creature": "Radiant Warden",
+    "name": "Radiant Warden Soul Core",
+    "img": "radiant_warden.gif"
+  },
+  {
+    "creature": "Devoted Radiant Warden",
+    "name": "Devoted Radiant Warden Soul Core",
+    "img": "devoted_radiant_warden.gif"
+  },
+  {
+    "creature": "Radiant Paragon",
+    "name": "Radiant Paragon Soul Core",
+    "img": "radiant_paragon.gif"
+  },
+  {
+    "creature": "Devoted Radiant Paragon",
+    "name": "Devoted Radiant Paragon Soul Core",
+    "img": "devoted_radiant_paragon.gif"
+  },
+  {
+    "creature": "Radiant Acolyte",
+    "name": "Radiant Acolyte Soul Core",
+    "img": "radiant_acolyte.gif"
+  },
+  {
+    "creature": "Devoted Radiant Acolyte",
+    "name": "Devoted Radiant Acolyte Soul Core",
+    "img": "devoted_radiant_acolyte.gif"
+  },
+  {
+    "creature": "Radiant Templar",
+    "name": "Radiant Templar Soul Core",
+    "img": "radiant_templar.gif"
+  },
+  {
+    "creature": "Devoted Radiant Templar",
+    "name": "Devoted Radiant Templar Soul Core",
+    "img": "devoted_radiant_templar.gif"
+  },
+  {
+    "creature": "Radiant Inquisitor",
+    "name": "Radiant Inquisitor Soul Core",
+    "img": "radiant_inquisitor.gif"
+  },
+  {
+    "creature": "Devoted Radiant Inquisitor",
+    "name": "Devoted Radiant Inquisitor Soul Core",
+    "img": "devoted_radiant_inquisitor.gif"
+  },
+  {
+    "creature": "Radiant Zealot",
+    "name": "Radiant Zealot Soul Core",
+    "img": "radiant_zealot.gif"
+  },
+  {
+    "creature": "Devoted Radiant Zealot",
+    "name": "Devoted Radiant Zealot Soul Core",
+    "img": "devoted_radiant_zealot.gif"
+  },
+  {
+    "creature": "Moonspawn Blightspitter",
+    "name": "Moonspawn Blightspitter Soul Core",
+    "img": "moonspawn_blightspitter.gif"
+  },
+  {
+    "creature": "Moonspawn Oozecrown",
+    "name": "Moonspawn Oozecrown Soul Core",
+    "img": "moonspawn_oozecrown.gif"
+  },
+  {
+    "creature": "Jaracal",
+    "name": "Jaracal Soul Core",
+    "img": "jaracal.gif"
+  },
+  {
+    "creature": "Moonstone Excavator",
+    "name": "Moonstone Excavator Soul Core",
+    "img": "moonstone_excavator.gif"
+  },
+  {
+    "creature": "Moonstone Overseer",
+    "name": "Moonstone Overseer Soul Core",
+    "img": "moonstone_overseer.gif"
+  }
+]
