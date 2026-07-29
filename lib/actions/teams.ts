@@ -2,11 +2,11 @@
 
 import { auth } from "@/lib/auth";
 import { db } from "@/lib/db";
-import { teams, teamMembers, teamJoinRequests } from "@/lib/schema";
+import { teams, teamMembers, teamJoinRequests, teamSoulCores, teamSoulCoreStatus } from "@/lib/schema";
 import { headers } from "next/headers";
 import { revalidatePath } from "next/cache";
 import { randomUUID } from "node:crypto";
-import { eq, and } from "drizzle-orm";
+import { eq, and, isNull } from "drizzle-orm";
 
 async function requireSession() {
   const session = await auth.api.getSession({ headers: await headers() });
@@ -83,6 +83,33 @@ export async function acceptJoinRequest(requestId: string, teamId: string) {
     .insert(teamMembers)
     .values({ teamId, userId: request.userId, role: "member" })
     .onConflictDoNothing();
+
+  // Backfill: nowy członek dołącza do statusów wszystkich aktywnych
+  // (jeszcze niezamkniętych) wpisów w puli - inaczej nie liczyłby się
+  // jako płacący/uczestnik dla core'ów dodanych przed jego dołączeniem.
+  const activeEntries = await db
+    .select({ id: teamSoulCores.id })
+    .from(teamSoulCores)
+    .where(
+      and(
+        eq(teamSoulCores.teamId, teamId),
+        eq(teamSoulCores.status, "accepted"),
+        isNull(teamSoulCores.closedAt)
+      )
+    );
+
+  if (activeEntries.length > 0) {
+    await db
+      .insert(teamSoulCoreStatus)
+      .values(
+        activeEntries.map((e) => ({
+          teamSoulCoreId: e.id,
+          userId: request.userId,
+          completed: false,
+        }))
+      )
+      .onConflictDoNothing();
+  }
 
   revalidatePath(`/teams/${teamId}`);
 }
